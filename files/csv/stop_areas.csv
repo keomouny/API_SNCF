@@ -1,0 +1,1001 @@
+id,coord,name,admin_region_id,admin_region_name,admin_region_zip_code,admin_region_insee
+stop_area:SNCF:87761825,"{'lat': '0', 'lon': '0'}",,,,,
+stop_area:SNCF:87313759,"{'lat': '49.685602', 'lon': '1.774351'}",Abancourt,admin:fr:60001,Abancourt,60220,60001
+stop_area:SNCF:87481614,"{'lat': '47.554627', 'lon': '-1.524514'}",Abbaretz,admin:fr:44001,Abbaretz,44170,44001
+stop_area:SNCF:87317362,"{'lat': '50.102216', 'lon': '1.824487'}",Abbeville,admin:fr:80001,Abbeville,80100,80001
+stop_area:SNCF:87545269,"{'lat': '48.725443', 'lon': '2.419213'}",Ablon,admin:fr:94001,Ablon-sur-Seine,94480,94001
+stop_area:SNCF:87191403,"{'lat': '49.261076', 'lon': '6.346603'}",Aboncourt Mairie,admin:fr:57001,Aboncourt,57920,57001
+stop_area:SNCF:87721944,"{'lat': '46.098868', 'lon': '3.444791'}",Abrest Mairie,admin:fr:3001,Abrest,03200,3001
+stop_area:SNCF:87677252,"{'lat': '47.663798', 'lon': '3.709584'}",Accolay Le Pont,admin:fr:89130,Deux Rivières,,89130
+stop_area:SNCF:87386052,"{'lat': '48.955187', 'lon': '2.091962'}",Achères Grand Cormier,admin:fr:78551,Saint-Germain-en-Laye,,78551
+stop_area:SNCF:87381657,"{'lat': '48.97011', 'lon': '2.07739'}",Achères Ville,admin:fr:78005,Achères,78260,78005
+stop_area:SNCF:87342048,"{'lat': '50.131741', 'lon': '2.780147'}",Achiet,admin:fr:62005,Achiet-le-Grand,62121,62005
+stop_area:SNCF:87658856,"{'lat': '48.905635', 'lon': '7.208238'}",Adamswiller Lotissement la Forêt,admin:fr:67002,Adamswiller,67320,67002
+stop_area:SNCF:87658922,"{'lat': '48.903835', 'lon': '7.201179'}",Adamswiller Mairie,admin:fr:67002,Adamswiller,67320,67002
+stop_area:SNCF:87495713,"{'lat': '48.728337', 'lon': '2.359676'}",Aérogare Orly Ouest,admin:fr:91479,Paray-Vieille-Poste,91550,91479
+stop_area:SNCF:87523548,"{'lat': '48.728829', 'lon': '2.369614'}",Aérogare Orly Sud,admin:fr:91479,Paray-Vieille-Poste,91550,91479
+stop_area:SNCF:87271460,"{'lat': '49.00956', 'lon': '2.56135'}",Aéroport Charles de Gaulle 1,admin:fr:93073,Tremblay-en-France,93290,93073
+stop_area:SNCF:87271494,"{'lat': '49.003618', 'lon': '2.570812'}",Aéroport Charles de Gaulle 2 TGV,admin:fr:93073,Tremblay-en-France,93290,93073
+stop_area:SNCF:87994210,"{'lat': '49.013273', 'lon': '2.541919'}",Aéroport Charles de Gaulle T1,admin:fr:77282,Mauregard,77990,77282
+stop_area:SNCF:87001479,"{'lat': '49.003965', 'lon': '2.570665'}",Aéroport Charles-de-Gaulle 2 RER,admin:fr:93073,Tremblay-en-France,93290,93073
+stop_area:SNCF:87757559,"{'lat': '43.43137', 'lon': '6.8565'}",Agay,admin:fr:83118,Saint-Raphaël,83530;83700,83118
+stop_area:SNCF:87781278,"{'lat': '43.31728', 'lon': '3.466203'}",Agde,admin:fr:34003,Agde,34300,34003
+stop_area:SNCF:87586008,"{'lat': '44.207967', 'lon': '0.6208669999999999'}",Agen,admin:fr:47001,Agen,47000,47001
+stop_area:SNCF:87595157,"{'lat': '45.286605', 'lon': '0.748653'}",Agonac,admin:fr:24002,Agonac,24460,24002
+stop_area:SNCF:87783399,"{'lat': '44.153724', 'lon': '3.097892'}",Aguessac,admin:fr:12002,Aguessac,12520,12002
+stop_area:SNCF:87171702,"{'lat': '49.407994', 'lon': '3.973095'}",Aguilcourt - Variscourt,admin:fr:2761,Variscourt,02190,2761
+stop_area:SNCF:85014001,"{'lat': '46.31685', 'lon': '6.96367'}",Aigle,admin:osm:relation:1684831,Aigle,1860,
+stop_area:SNCF:87485193,"{'lat': '46.09402', 'lon': '-0.95168'}",Aigrefeuille Le Thou,admin:fr:17447,Le Thou,17290,17447
+stop_area:SNCF:87695957,"{'lat': '45.537542', 'lon': '5.812926'}",Aiguebelette-Centre,admin:fr:73001,Aiguebelette-le-Lac,73610,73001
+stop_area:SNCF:87741421,"{'lat': '45.536323', 'lon': '5.813122'}",Aiguebelette-le-Lac,admin:fr:73001,Aiguebelette-le-Lac,73610,73001
+stop_area:SNCF:87741256,"{'lat': '45.543703', 'lon': '6.306737'}",Aiguebelle,admin:fr:73212,Val-d'Arc,73220,73212
+stop_area:SNCF:87741710,"{'lat': '45.501835', 'lon': '6.508605'}",Aigueblanche-Centre,admin:fr:73003,Grand-Aigueblanche,,73003
+stop_area:SNCF:87734129,"{'lat': '46.014869', 'lon': '3.197912'}",Aigueperse,admin:fr:63001,Aigueperse,63260,63001
+stop_area:SNCF:87775858,"{'lat': '43.570901', 'lon': '4.19121'}",Aigues-Mortes,admin:fr:30003,Aigues-Mortes,30220,30003
+stop_area:SNCF:87130864,"{'lat': '42.995531', 'lon': '1.878808'}",Aigues-Vives,admin:fr:9002,Aigues-Vives,09600,9002
+stop_area:SNCF:87586693,"{'lat': '44.298624', 'lon': '0.335543'}",Aiguillon,admin:fr:47004,Aiguillon,47190,47004
+stop_area:SNCF:87215624,"{'lat': '48.254741', 'lon': '4.682252'}",Ailleville,admin:fr:10002,Ailleville,10200,10002
+stop_area:SNCF:87185629,"{'lat': '47.91389', 'lon': '6.33736'}",Aillevillers,admin:fr:70171,Corbenay,70320,70171
+stop_area:SNCF:87313221,"{'lat': '49.754445', 'lon': '2.364177'}",Ailly-sur-Noye,admin:fr:80010,Ailly-sur-Noye,80250,80010
+stop_area:SNCF:87313098,"{'lat': '49.928357', 'lon': '2.20061'}",Ailly-sur-Somme,admin:fr:80011,Ailly-sur-Somme,80470,80011
+stop_area:SNCF:87775833,"{'lat': '43.678643', 'lon': '4.20845'}",Aimargues,admin:fr:30006,Aimargues,30470,30006
+stop_area:SNCF:87741769,"{'lat': '45.554387', 'lon': '6.648614'}",Aime - La Plagne,admin:fr:73006,Aime-la-Plagne,73210,73006
+stop_area:SNCF:87668491,"{'lat': '43.704602', 'lon': '-0.259903'}",Aire-sur-l'Adour - Pl. liberté,admin:fr:40001,Aire-sur-l'Adour,40800,40001
+stop_area:SNCF:87713636,"{'lat': '47.170645', 'lon': '5.158352'}",Aiserey,admin:fr:21005,Aiserey,21110,21005
+stop_area:SNCF:87741249,"{'lat': '45.560231', 'lon': '6.254831'}",Aiton-Salle-Polyvalente,admin:fr:73007,Aiton,73220,73007
+stop_area:SNCF:80153452,"{'lat': '50.7675', 'lon': '6.0912'}",Aix la Chapelle,admin:osm:relation:62564,Aachen,,
+stop_area:SNCF:87751404,"{'lat': '43.522903', 'lon': '5.44533'}",Aix-en-Provence,admin:fr:13001,Aix-en-Provence,13080;13540,13001
+stop_area:SNCF:87541797,"{'lat': '43.523333', 'lon': '5.43997'}",Aix-en-Provence Gare Routière,admin:fr:13001,Aix-en-Provence,13080;13540,13001
+stop_area:SNCF:87319012,"{'lat': '43.455237', 'lon': '5.317534'}",Aix-en-Provence TGV,admin:fr:13001,Aix-en-Provence,13080;13540,13001
+stop_area:SNCF:87741132,"{'lat': '45.688161', 'lon': '5.909371'}",Aix-les-Bains le Revard,admin:fr:73008,Aix-les-Bains,73100,73008
+stop_area:SNCF:87592667,"{'lat': '45.796573', 'lon': '1.145724'}",Aixe-sur-Vienne,admin:fr:87001,Aixe-sur-Vienne,87700,87001
+stop_area:SNCF:87417808,"{'lat': '46.207153', 'lon': '1.99724'}",Ajain,admin:fr:23002,Ajain,23380,23002
+stop_area:SNCF:87722744,"{'lat': '45.752428', 'lon': '4.771695'}",Alaï,admin:fr:69244,Tassin-la-Demi-Lune,69160,69244
+stop_area:SNCF:87420836,"{'lat': '44.570312', 'lon': '4.587551'}",Alba-la-Romaine Ruines Romaines,admin:fr:7005,Alba-la-Romaine,07400,7005
+stop_area:SNCF:87442772,"{'lat': '43.888114', 'lon': '2.46101'}",Alban,admin:fr:81003,Alban,81250,81003
+stop_area:SNCF:87613752,"{'lat': '44.468333', 'lon': '1.236667'}",Albas,admin:fr:46001,Albas,46140,46001
+stop_area:SNCF:87168716,"{'lat': '44.482404', 'lon': '1.229517'}",Albas Rivière Basse,admin:fr:46001,Albas,46140,46001
+stop_area:SNCF:87168724,"{'lat': '44.473153', 'lon': '1.251467'}",Albas Rivière Haute,admin:fr:46001,Albas,46140,46001
+stop_area:SNCF:87746115,"{'lat': '45.785946', 'lon': '5.948342'}",Albens,admin:fr:73010,Entrelacs,,73010
+stop_area:SNCF:87313072,"{'lat': '50.005434', 'lon': '2.644527'}",Albert,admin:fr:80016,Albert,80300,80016
+stop_area:SNCF:87741645,"{'lat': '45.672977', 'lon': '6.383167'}",Albertville,admin:fr:73011,Albertville,73200,73011
+stop_area:SNCF:87440354,"{'lat': '43.92461', 'lon': '2.146998'}",Albi,admin:fr:81004,Albi,81000,81004
+stop_area:SNCF:87615195,"{'lat': '43.938137', 'lon': '2.141209'}",Albi Madeleine,admin:fr:81004,Albi,81000,81004
+stop_area:SNCF:87615005,"{'lat': '43.92238', 'lon': '2.137958'}",Albi Ville,admin:fr:81004,Albi,81000,81004
+stop_area:SNCF:87139089,"{'lat': '44.090527', 'lon': '1.44713'}",Albias,admin:fr:82002,Albias,82350,82002
+stop_area:SNCF:87613398,"{'lat': '44.091981', 'lon': '1.444922'}",Albias,admin:fr:82002,Albias,82350,82002
+stop_area:SNCF:87721266,"{'lat': '45.874897', 'lon': '4.832852'}",Albigny - Neuville,admin:fr:69003,Albigny-sur-Saône,69250,69003
+stop_area:SNCF:87697003,"{'lat': '45.875356', 'lon': '4.833042'}",Albigny-Neuville-Arret-TCL-Gare,admin:fr:69003,Albigny-sur-Saône,69250,69003
+stop_area:SNCF:87177212,"{'lat': '43.470242', 'lon': '2.533923'}",Albine Croisement N112-D88,admin:fr:81005,Albine,81240,81005
+stop_area:SNCF:87444711,"{'lat': '48.433884', 'lon': '0.09853099999999999'}",Alençon,admin:fr:61001,Alençon,61000,61001
+stop_area:SNCF:87775288,"{'lat': '44.127825', 'lon': '4.084948'}",Alès,admin:fr:30007,Alès,30100,30007
+stop_area:SNCF:87615187,"{'lat': '42.997403', 'lon': '2.252189'}",Alet-les-Bains,admin:fr:11008,Alet-les-Bains,11580,11008
+stop_area:SNCF:85010355,"{'lat': '46.47575', 'lon': '6.3997'}",Allaman,admin:osm:relation:1684832,Allaman,1165,
+stop_area:SNCF:87117465,"{'lat': '48.542768', 'lon': '5.796812'}",Allamps E.S.A.T,admin:fr:54010,Allamps,54112,54010
+stop_area:SNCF:87240242,"{'lat': '44.480354', 'lon': '4.76171'}",Allan Menuiserie,admin:fr:26169,Malataverne,26780,26169
+stop_area:SNCF:87645614,"{'lat': '45.229652', 'lon': '2.931311'}",Allanche,admin:fr:15001,Allanche,15160,15001
+stop_area:SNCF:87594234,"{'lat': '45.258984', 'lon': '1.473316'}",Allassac,admin:fr:19005,Allassac,19240,19005
+stop_area:SNCF:87113878,"{'lat': '48.897109', 'lon': '2.506475'}",Allée de la Tour Rendez-Vous,admin:fr:93077,Villemomble,93250,93077
+stop_area:SNCF:87734665,"{'lat': '45.202996', 'lon': '3.713787'}",Allègre,admin:fr:43003,Allègre,43270,43003
+stop_area:SNCF:87589390,"{'lat': '45.201985', 'lon': '3.713792'}",Allegre Maison Retraite,admin:fr:43003,Allègre,43270,43003
+stop_area:SNCF:87783654,"{'lat': '44.541296', 'lon': '3.663893'}",Allenc,admin:fr:48003,Allenc,48190,48003
+stop_area:SNCF:87769554,"{'lat': '44.764001', 'lon': '4.913496'}",Allex,admin:fr:26006,Allex,26400,26006
+stop_area:SNCF:87731885,"{'lat': '44.919217', 'lon': '3.673517'}",Alleyras,admin:fr:43005,Alleyras,43580,43005
+stop_area:SNCF:87581793,"{'lat': '44.793462', 'lon': '-0.65946'}",Alouette-France,admin:fr:33318,Pessac,33600,33318
+stop_area:SNCF:87639955,"{'lat': '48.794562', 'lon': '7.589267'}",Alteckendorf Altdorf,admin:fr:67005,Alteckendorf,67270,67005
+stop_area:SNCF:87639930,"{'lat': '48.789785', 'lon': '7.601602'}",Alteckendorf Eckendorf,admin:fr:67005,Alteckendorf,67270,67005
+stop_area:SNCF:87639948,"{'lat': '48.792818', 'lon': '7.594688'}",Alteckendorf Mairie,admin:fr:67005,Alteckendorf,67270,67005
+stop_area:SNCF:87182238,"{'lat': '47.627017', 'lon': '7.23905'}",Altkirch,admin:fr:68004,Altkirch,68130,68004
+stop_area:SNCF:87117515,"{'lat': '49.278966', 'lon': '6.552207'}",Alzing Rue de Brettnach,admin:fr:57016,Alzing,57320,57016
+stop_area:SNCF:87172262,"{'lat': '49.52377', 'lon': '4.473898'}",Amagne - Lucquy,admin:fr:8262,Lucquy,08300,8262
+stop_area:SNCF:87727917,"{'lat': '48.286223', 'lon': '4.500366'}",Amance la Ville au Bois Eglise,admin:fr:10005,Amance,10140,10005
+stop_area:SNCF:87727925,"{'lat': '48.295107', 'lon': '4.516132'}",Amance Mairie/Ecole,admin:fr:10005,Amance,10140,10005
+stop_area:SNCF:87592311,"{'lat': '45.952901', 'lon': '1.406583'}",Ambazac,admin:fr:87002,Ambazac,87240,87002
+stop_area:SNCF:87743716,"{'lat': '45.954014', 'lon': '5.342402'}",Ambérieu-en-Bugey,admin:fr:1004,Ambérieu-en-Bugey,01500,1004
+stop_area:SNCF:87395756,"{'lat': '45.550621', 'lon': '3.739699'}",Ambert,admin:fr:63003,Ambert,63600,63003
+stop_area:SNCF:87734574,"{'lat': '45.549644', 'lon': '3.735035'}",Ambert,admin:fr:63003,Ambert,63600,63003
+stop_area:SNCF:87721902,"{'lat': '45.539041', 'lon': '3.728011'}",Ambert Piscine,admin:fr:63003,Ambert,63600,63003
+stop_area:SNCF:87574343,"{'lat': '47.421469', 'lon': '0.981267'}",Amboise,admin:fr:37003,Amboise,37400,37003
+stop_area:SNCF:87743146,"{'lat': '46.011866', 'lon': '5.339141'}",Ambronay - Priay,admin:fr:1007,Ambronay,01500,1007
+stop_area:SNCF:87695965,"{'lat': '46.01159', 'lon': '5.338143'}",Ambronay-Priay RD 1075,admin:fr:1007,Ambronay,01500,1007
+stop_area:SNCF:87381277,"{'lat': '49.388524', 'lon': '1.735959'}",Amécourt - Talmontier,admin:fr:60626,Talmontiers,60590,60626
+stop_area:SNCF:87313874,"{'lat': '49.890746', 'lon': '2.312592'}",Amiens,admin:fr:80021,Amiens,80000,80021
+stop_area:SNCF:87171744,"{'lat': '49.484738', 'lon': '3.910666'}",Amifontaine,admin:fr:2013,Amifontaine,02190,2013
+stop_area:SNCF:87394205,"{'lat': '48.438294', 'lon': '1.389396'}",Amilly - Ouerray,admin:fr:28006,Amilly,28300,28006
+stop_area:SNCF:87721035,"{'lat': '45.971014', 'lon': '4.326763'}",Amplepuis,admin:fr:69006,Amplepuis,69550,69006
+stop_area:SNCF:84000588,"{'lat': '52.37908', 'lon': '4.900632'}",Amsterdam Centraal,admin:osm:relation:271110,Amsterdam,,
+stop_area:SNCF:87481192,"{'lat': '47.369334', 'lon': '-1.177763'}",Ancenis,admin:fr:44003,Ancenis-Saint-Géréon,44150,44003
+stop_area:SNCF:87172858,"{'lat': '49.930745', 'lon': '4.670243'}",Anchamps,admin:fr:8011,Anchamps,08500,8011
+stop_area:SNCF:87575332,"{'lat': '46.349675', 'lon': '0.250357'}",Anché - Voulon,admin:fr:86003,Anché,86700,86003
+stop_area:SNCF:87677997,"{'lat': '42.871389', 'lon': '0.340833'}",Ancizan,admin:fr:65006,Ancizan,65440,65006
+stop_area:SNCF:87192419,"{'lat': '49.057714', 'lon': '6.062342'}",Ancy-sur-Moselle,admin:fr:57021,Ancy-Dornot,57130,57021
+stop_area:SNCF:87783167,"{'lat': '45.058486', 'lon': '3.057375'}",Andelat,admin:fr:15004,Andelat,15100,15004
+stop_area:SNCF:87715102,"{'lat': '46.859428', 'lon': '5.923677'}",Andelot,admin:fr:39009,Andelot-en-Montagne,39110,39009
+stop_area:SNCF:87502039,"{'lat': '48.55045', 'lon': '2.666416'}",André Malraux,admin:fr:77288,Melun,77000,77288
+stop_area:SNCF:87671610,"{'lat': '43.320147', 'lon': '0.06376800000000001'}",Andrest,admin:fr:65007,Andrest,65390,65007
+stop_area:SNCF:87381491,"{'lat': '48.9747', 'lon': '2.04928'}",Andrésy,admin:fr:78015,Andrésy,78570,78015
+stop_area:SNCF:87726406,"{'lat': '45.521736', 'lon': '4.255418'}",Andrézieux,admin:fr:42005,Andrézieux-Bouthéon,42160,42005
+stop_area:SNCF:87484048,"{'lat': '47.46709', 'lon': '-0.531894'}",Angers Maître École,admin:fr:49007,Angers,49000;49100,49007
+stop_area:SNCF:87484006,"{'lat': '47.464647', 'lon': '-0.55682'}",Angers Saint-Laud,admin:fr:49007,Angers,49000;49100,49007
+stop_area:SNCF:87543090,"{'lat': '48.311632', 'lon': '2.003526'}",Angerville,admin:fr:91016,Angerville,91670,91016
+stop_area:SNCF:87620021,"{'lat': '44.487223', 'lon': '1.198611'}",Anglars-Juillac,admin:fr:46005,Anglars-Juillac,46140,46005
+stop_area:SNCF:87583005,"{'lat': '45.653572', 'lon': '0.164608'}",Angoulême,admin:fr:16015,Angoulême,16000,16015
+stop_area:SNCF:87485102,"{'lat': '46.107785', 'lon': '-1.115622'}",Angoulins sur Mer,admin:fr:17010,Angoulins,17690,17010
+stop_area:SNCF:87296566,"{'lat': '49.496085', 'lon': '3.448661'}",Anizy - Pinon,admin:fr:2602,Pinon,02320,2602
+stop_area:SNCF:87286856,"{'lat': '50.622807', 'lon': '3.14629'}",Annappes,admin:fr:59009,Villeneuve-d'Ascq,59491;59650,59009
+stop_area:SNCF:87746008,"{'lat': '45.902047', 'lon': '6.121826'}",Annecy,admin:fr:74010,Annecy,74000,74010
+stop_area:SNCF:87600494,"{'lat': '45.901707', 'lon': '6.120128'}",Annecy Gare Routière,admin:fr:74010,Annecy,74000,74010
+stop_area:SNCF:87745497,"{'lat': '46.199245', 'lon': '6.236431'}",Annemasse,admin:fr:74012,Annemasse,74100,74012
+stop_area:SNCF:87365155,"{'lat': '45.246458', 'lon': '4.675772'}",Annonay Boutique SNCF,admin:fr:7010,Annonay,07100,7010
+stop_area:SNCF:87761270,"{'lat': '45.24373', 'lon': '4.66863'}",Annonay-Gare Routière,admin:fr:7010,Annonay,07100,7010
+stop_area:SNCF:87295055,"{'lat': '49.984998', 'lon': '4.093314'}",Anor,admin:fr:59012,Anor,59186,59012
+stop_area:SNCF:87170068,"{'lat': '42.897395', 'lon': '0.625161'}",Anos,admin:fr:31040,Bachos,31440,31040
+stop_area:SNCF:87721324,"{'lat': '45.939351', 'lon': '4.719824'}",Anse,admin:fr:69009,Anse,69480,69009
+stop_area:SNCF:87697011,"{'lat': '45.936999', 'lon': '4.718314'}",Anse-Monument,admin:fr:69009,Anse,69480,69009
+stop_area:SNCF:87287219,"{'lat': '50.603993', 'lon': '3.193347'}",Anstaing,admin:fr:59013,Anstaing,59152,59013
+stop_area:SNCF:87757567,"{'lat': '43.434985', 'lon': '6.892186'}",Anthéor Cap Roux,admin:fr:83118,Saint-Raphaël,83530;83700,83118
+stop_area:SNCF:87757674,"{'lat': '43.585971', 'lon': '7.119913'}",Antibes,admin:fr:6004,Antibes,06160;06600,6004
+stop_area:SNCF:87611715,"{'lat': '42.825968', 'lon': '0.600036'}",Antignac,admin:fr:31010,Antignac,31110,31010
+stop_area:SNCF:87620146,"{'lat': '43.115068', 'lon': '0.120722'}",Antist,admin:fr:65335,Ordizan,65200,65335
+stop_area:SNCF:87758755,"{'lat': '48.754675', 'lon': '2.300973'}",Antony,admin:fr:92002,Antony,92160,92002
+stop_area:SNCF:87320911,"{'lat': '46.8942', 'lon': '4.3867'}",Antully,admin:fr:71010,Antully,71400,71010
+stop_area:SNCF:88210060,"{'lat': '51.216', 'lon': '4.421'}",Antwerpen Centraal,admin:osm:relation:59518,Antwerpen,,
+stop_area:SNCF:87317255,"{'lat': '50.446834', 'lon': '2.254987'}",Anvin,admin:fr:62036,Anvin,62134,62036
+stop_area:SNCF:87191387,"{'lat': '49.262072', 'lon': '6.460265'}",Anzeling,admin:fr:57025,Anzeling,57320,57025
+stop_area:SNCF:87405571,"{'lat': '49.26394', 'lon': '6.463126'}",Anzeling Carrefour,admin:fr:57025,Anzeling,57320,57025
+stop_area:SNCF:87761791,"{'lat': '44.716785', 'lon': '5.057115'}",Aouste-sur-Sye,admin:fr:26011,Aouste-sur-Sye,26400,26011
+stop_area:SNCF:87635854,"{'lat': '49.459995', 'lon': '6.374217'}",Apach Église,admin:fr:57026,Apach,57480,57026
+stop_area:SNCF:80142893,"{'lat': '48.5419', 'lon': '7.9735'}",Appenweier,admin:osm:relation:452982,Appenweier,,
+stop_area:SNCF:87296459,"{'lat': '49.580462', 'lon': '3.120725'}",Appilly,admin:fr:60021,Appilly,60400,60021
+stop_area:SNCF:87582726,"{'lat': '44.674373', 'lon': '-0.39551'}",Arbanats,admin:fr:33007,Arbanats,33640,33007
+stop_area:SNCF:87718155,"{'lat': '46.912467', 'lon': '5.764837'}",Arbois,admin:fr:39013,Arbois,39600,39013
+stop_area:SNCF:87704320,"{'lat': '48.897839', 'lon': '2.561449'}",Arboretum-T4,admin:fr:93047,Montfermeil,93370,93047
+stop_area:SNCF:87718841,"{'lat': '47.030473', 'lon': '5.77683'}",Arc-et-Senans,admin:fr:25021,Arc-et-Senans,25610,25021
+stop_area:SNCF:87582668,"{'lat': '44.658967', 'lon': '-1.165323'}",Arcachon,admin:fr:33009,Arcachon,33120,33009
+stop_area:SNCF:87144410,"{'lat': '48.118896', 'lon': '6.528105'}",Arches Gare,admin:fr:88011,Arches,88380,88011
+stop_area:SNCF:87758672,"{'lat': '48.798451', 'lon': '2.327964'}",Arcueil-Cachan,admin:fr:94016,Cachan,94230,94016
+stop_area:SNCF:87683680,"{'lat': '47.600873', 'lon': '3.766638'}",Arcy-sur-Cure,admin:fr:89015,Arcy-sur-Cure,89270,89015
+stop_area:SNCF:87671479,"{'lat': '44.007044', 'lon': '-0.809053'}",Arengosse,admin:fr:40006,Arengosse,40110,40006
+stop_area:SNCF:87671743,"{'lat': '43.001111', 'lon': '-0.098889'}",Argelès-Gazost,admin:fr:65025,Argelès-Gazost,65400,65025
+stop_area:SNCF:87176933,"{'lat': '43.00497', 'lon': '-0.100474'}",Argelès-Gazost Cordée,admin:fr:65025,Argelès-Gazost,65400,65025
+stop_area:SNCF:87784231,"{'lat': '42.543908', 'lon': '3.021919'}",Argelès-sur-Mer,admin:fr:66008,Argelès-sur-Mer,66700,66008
+stop_area:SNCF:87314526,"{'lat': '47.560036', 'lon': '2.447838'}",Argent-sur-Sauldre,admin:fr:18011,Argent-sur-Sauldre,18410,18011
+stop_area:SNCF:87444539,"{'lat': '48.738545', 'lon': '-0.025291'}",Argentan,admin:fr:61006,Argentan,61200,61006
+stop_area:SNCF:87381848,"{'lat': '48.94686', 'lon': '2.25727'}",Argenteuil,admin:fr:95018,Argenteuil,95100,95018
+stop_area:SNCF:87746859,"{'lat': '45.981944', 'lon': '6.926484'}",Argentière,admin:fr:74056,Chamonix-Mont-Blanc,74400,74056
+stop_area:SNCF:87741272,"{'lat': '45.493232', 'lon': '6.313534'}",Argentine,admin:fr:73019,Argentine,73220,73019
+stop_area:SNCF:87697151,"{'lat': '45.493131', 'lon': '6.313834'}",Argentine-Gemelly-ou-Stade,admin:fr:73019,Argentine,73220,73019
+stop_area:SNCF:87697144,"{'lat': '45.502072', 'lon': '6.318651'}",Argentine-La-Combe,admin:fr:73019,Argentine,73220,73019
+stop_area:SNCF:87597120,"{'lat': '46.59225', 'lon': '1.518256'}",Argenton-sur-Creuse,admin:fr:36006,Argenton-sur-Creuse,36200,36006
+stop_area:SNCF:87201566,"{'lat': '46.589025', 'lon': '1.51901'}",Argenton-sur-Creuse LEP,admin:fr:36006,Argenton-sur-Creuse,36200,36006
+stop_area:SNCF:87495721,"{'lat': '48.708295', 'lon': '2.37133'}",Aristide Briand,admin:fr:91479,Paray-Vieille-Poste,91550,91479
+stop_area:SNCF:87734590,"{'lat': '45.413229', 'lon': '3.724574'}",Arlanc Place de l'église,admin:fr:63010,Arlanc,63220,63010
+stop_area:SNCF:87753657,"{'lat': '43.684863', 'lon': '4.632105'}",Arles,admin:fr:13004,Arles,13200,13004
+stop_area:SNCF:87345421,"{'lat': '50.286249', 'lon': '3.12071'}",Arleux,admin:fr:59015,Arleux,59151,59015
+stop_area:SNCF:87286146,"{'lat': '50.680807', 'lon': '2.877546'}",Armentières,admin:fr:59017,Armentières,59280,59017
+stop_area:SNCF:87396549,"{'lat': '47.928575', 'lon': '0.189954'}",Arnage,admin:fr:72008,Arnage,72230,72008
+stop_area:SNCF:87360339,"{'lat': '47.928351', 'lon': '0.185308'}",Arnage Avenue Nationale,admin:fr:72008,Arnage,72230,72008
+stop_area:SNCF:87281121,"{'lat': '50.831509', 'lon': '2.408468'}",Arnèke,admin:fr:59018,Arnèke,59285,59018
+stop_area:SNCF:87545467,"{'lat': '48.586196', 'lon': '2.240986'}",Arpajon,admin:fr:91021,Arpajon,91290,91021
+stop_area:SNCF:87415042,"{'lat': '49.880478', 'lon': '1.134456'}",Arques-la-Bataille,admin:fr:76026,Arques-la-Bataille,76880,76026
+stop_area:SNCF:87192153,"{'lat': '48.970807', 'lon': '6.532016'}",Arraincourt Rue Principale,admin:fr:57027,Arraincourt,57380,57027
+stop_area:SNCF:87342014,"{'lat': '50.286811', 'lon': '2.781089'}",Arras,admin:fr:62041,Arras,62000,62041
+stop_area:SNCF:87677971,"{'lat': '42.905755', 'lon': '0.356879'}",Arreau,admin:fr:65031,Arreau,65240,65031
+stop_area:SNCF:87407502,"{'lat': '45.396438', 'lon': '3.326379'}",Arrest Usine Melius,admin:fr:43185,Sainte-Florine,43250,43185
+stop_area:SNCF:87394486,"{'lat': '48.099883', 'lon': '1.128151'}",Arrou,admin:fr:28012,Commune nouvelle d'Arrou,28220;28290,28012
+stop_area:SNCF:87643957,"{'lat': '48.098011', 'lon': '1.122978'}",Arrou Place de l'église,admin:fr:28012,Commune nouvelle d'Arrou,28220;28290,28012
+stop_area:SNCF:87192401,"{'lat': '49.074475', 'lon': '6.077646'}",Ars-sur-Moselle,admin:fr:57032,Ars-sur-Moselle,57130,57032
+stop_area:SNCF:87215707,"{'lat': '48.268071', 'lon': '4.64892'}",Arsonval,admin:fr:10012,Arsonval,10200,10012
+stop_area:SNCF:87543058,"{'lat': '48.081057', 'lon': '1.883226'}",Artenay,admin:fr:45008,Artenay,45410,45008
+stop_area:SNCF:87678078,"{'lat': '42.933451', 'lon': '0.205677'}",Artigues,admin:fr:65123,Campan,65710,65123
+stop_area:SNCF:87672212,"{'lat': '43.392629', 'lon': '-0.56876'}",Artix,admin:fr:64061,Artix,64170,64061
+stop_area:SNCF:87734251,"{'lat': '45.365459', 'lon': '3.310554'}",Arvant,admin:fr:43038,Bournoncle-Saint-Pierre,43360,43038
+stop_area:SNCF:87702126,"{'lat': '47.545435', 'lon': '-2.889465'}",Arzon le Crouesty,admin:fr:56005,Arzon,56640,56005
+stop_area:SNCF:87463620,"{'lat': '48.718107', 'lon': '7.164384'}",Arzviller Ecole,admin:fr:57033,Arzviller,57405,57033
+stop_area:SNCF:87286864,"{'lat': '50.621801', 'lon': '3.159881'}",Ascq,admin:fr:59009,Villeneuve-d'Ascq,59491;59650,59009
+stop_area:SNCF:87381137,"{'lat': '48.905803', 'lon': '2.283295'}",Asnières-sur-Seine,admin:fr:92004,Asnières-sur-Seine,92600,92004
+stop_area:SNCF:87641928,"{'lat': '47.761027', 'lon': '7.153024'}",Aspach-le-Bas Rest. Malakoff,admin:fr:68011,Aspach-le-Bas,68700,68011
+stop_area:SNCF:87641910,"{'lat': '47.768902', 'lon': '7.141682'}",Aspach-le-Haut Chemin de la Gare,admin:fr:68012,Aspach-Michelbach,,68012
+stop_area:SNCF:87641902,"{'lat': '47.776125', 'lon': '7.134115'}",Aspach-le-Haut Croisement D103-D34,admin:fr:68012,Aspach-Michelbach,,68012
+stop_area:SNCF:87763250,"{'lat': '44.519423', 'lon': '5.754559'}",Aspres-sur-Buëch,admin:fr:5010,Aspres-sur-Buëch,05140,5010
+stop_area:SNCF:87672162,"{'lat': '43.254399', 'lon': '-0.295018'}",Assat,admin:fr:64067,Assat,64510,64067
+stop_area:SNCF:87613075,"{'lat': '44.67468', 'lon': '1.869757'}",Assier,admin:fr:46009,Assier,46320,46009
+stop_area:SNCF:87586321,"{'lat': '44.066944', 'lon': '0.651155'}",Astaffort,admin:fr:47015,Astaffort,47220,47015
+stop_area:SNCF:87545251,"{'lat': '48.712851', 'lon': '2.40312'}",Athis-Mons,admin:fr:91027,Athis-Mons,91200,91027
+stop_area:SNCF:87414615,"{'lat': '48.809936', 'lon': '2.190101'}",Atrium,admin:fr:92022,Chaville,92370,92022
+stop_area:SNCF:87751750,"{'lat': '43.296073', 'lon': '5.566322'}",Aubagne,admin:fr:13005,Aubagne,13400,13005
+stop_area:SNCF:87594465,"{'lat': '45.181678', 'lon': '1.641235'}",Aubazines - Saint-Hilaire,admin:fr:19211,Saint-Hilaire-Peyroux,19560,19211
+stop_area:SNCF:87391672,"{'lat': '48.739462', 'lon': '0.545588'}",Aube Centre RN26,admin:fr:61008,Aube,61270,61008
+stop_area:SNCF:87192104,"{'lat': '48.995574', 'lon': '6.42892'}",Aubecourt Rue Principale,admin:fr:57572,Rémilly,57580,57572
+stop_area:SNCF:87535096,"{'lat': '44.61095', 'lon': '4.407164'}",Aubenas Gare Routière,admin:fr:7019,Aubenas,07200,7019
+stop_area:SNCF:87337089,"{'lat': '44.618129', 'lon': '4.38922'}",Aubenas Place de la Paix,admin:fr:7019,Aubenas,07200,7019
+stop_area:SNCF:87758599,"{'lat': '48.871956', 'lon': '2.330432'}",Auber,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87386730,"{'lat': '48.971923', 'lon': '1.848479'}",Aubergenville - Élisabethville,admin:fr:78029,Aubergenville,78410,78029
+stop_area:SNCF:87734111,"{'lat': '45.983827', 'lon': '3.160514'}",Aubiat,admin:fr:63013,Aubiat,63260,63013
+stop_area:SNCF:87491233,"{'lat': '45.015139', 'lon': '-0.419895'}",Aubie - Saint-Antoine,admin:fr:33018,Val de Virvée,,33018
+stop_area:SNCF:87611764,"{'lat': '43.650192', 'lon': '0.789173'}",Aubiet,admin:fr:32012,Aubiet,32270,32012
+stop_area:SNCF:87396572,"{'lat': '47.687097', 'lon': '0.265678'}",Aubigné-Racan,admin:fr:72013,Aubigné-Racan,72800,72013
+stop_area:SNCF:87345447,"{'lat': '50.268575', 'lon': '3.15872'}",Aubigny-au-Bac,admin:fr:59026,Aubigny-au-Bac,59265,59026
+stop_area:SNCF:87342246,"{'lat': '50.3529', 'lon': '2.592459'}",Aubigny-en-Artois,admin:fr:62045,Aubigny-en-Artois,62690,62045
+stop_area:SNCF:87314518,"{'lat': '47.487747', 'lon': '2.43731'}",Aubigny-sur-Nère,admin:fr:18015,Aubigny-sur-Nère,18700,18015
+stop_area:SNCF:87613224,"{'lat': '44.527276', 'lon': '2.239313'}",Aubin,admin:fr:12013,Aubin,12110,12013
+stop_area:SNCF:87609602,"{'lat': '44.528218', 'lon': '2.243636'}",Aubin Place Monteils,admin:fr:12013,Aubin,12110,12013
+stop_area:SNCF:87316604,"{'lat': '50.394778', 'lon': '1.969989'}",Aubin-Saint-Vaast,admin:fr:62046,Aubin-Saint-Vaast,62140,62046
+stop_area:SNCF:87191684,"{'lat': '49.216036', 'lon': '5.971139'}",Auboué,admin:fr:54028,Auboué,54580,54028
+stop_area:SNCF:87172122,"{'lat': '50.104041', 'lon': '4.761433'}",Aubrives,admin:fr:8028,Aubrives,08320,8028
+stop_area:SNCF:87597823,"{'lat': '45.959669', 'lon': '2.161723'}",Aubusson,admin:fr:23008,Aubusson,23200,23008
+stop_area:SNCF:87611749,"{'lat': '43.647488', 'lon': '0.596661'}",Auch,admin:fr:32013,Auch,32000,32013
+stop_area:SNCF:87668459,"{'lat': '43.648288', 'lon': '0.582806'}",Auch Baylac,admin:fr:32013,Auch,32000,32013
+stop_area:SNCF:87668467,"{'lat': '43.629515', 'lon': '0.579844'}",Auch Hôpital,admin:fr:32013,Auch,32000,32013
+stop_area:SNCF:87134387,"{'lat': '43.657504', 'lon': '0.5974699999999999'}",Auch Le Seilhan,admin:fr:32013,Auch,32000,32013
+stop_area:SNCF:87168195,"{'lat': '43.687457', 'lon': '0.60339'}",Auch Z.A. Lamothe,admin:fr:32013,Auch,32000,32013
+stop_area:SNCF:87317230,"{'lat': '50.396348', 'lon': '2.102356'}",Auchy-lès-Hesdin,admin:fr:62050,Auchy-lès-Hesdin,62770,62050
+stop_area:SNCF:87444059,"{'lat': '49.216132', 'lon': '-0.596014'}",Audrieu,admin:fr:14026,Audrieu,14250,14026
+stop_area:SNCF:87281428,"{'lat': '50.875687', 'lon': '2.076357'}",Audruicq,admin:fr:62057,Audruicq,62370,62057
+stop_area:SNCF:87194357,"{'lat': '49.36682', 'lon': '5.89139'}",Audun-le-Roman,admin:fr:54029,Audun-le-Roman,54560,54029
+stop_area:SNCF:87406009,"{'lat': '49.3701', 'lon': '5.8959'}",Audun-le-Roman Hôtel de Ville,admin:fr:54029,Audun-le-Roman,54560,54029
+stop_area:SNCF:87686378,"{'lat': '49.368984', 'lon': '5.901058'}",Audun-le-Roman Jean Jaurès,admin:fr:54029,Audun-le-Roman,54560,54029
+stop_area:SNCF:87415158,"{'lat': '49.716091', 'lon': '1.098424'}",Auffay,admin:fr:76034,Val-de-Scie,76720;76850,76034
+stop_area:SNCF:87562421,"{'lat': '45.791865', 'lon': '3.161442'}",Aulnat Aéroport,admin:fr:63019,Aulnat,63510,63019
+stop_area:SNCF:87271411,"{'lat': '48.931869', 'lon': '2.494379'}",Aulnay-sous-Bois,admin:fr:93005,Aulnay-sous-Bois,93600,93005
+stop_area:SNCF:87295600,"{'lat': '50.19749', 'lon': '3.84337'}",Aulnoye-Aymeries,admin:fr:59033,Aulnoye-Aymeries,59620,59033
+stop_area:SNCF:87232157,"{'lat': '42.79', 'lon': '1.336389'}",Aulus-les-Bains,admin:fr:9029,Aulus-les-Bains,09140,9029
+stop_area:SNCF:87313767,"{'lat': '49.765115', 'lon': '1.756069'}",Aumale,admin:fr:76035,Aumale,76390,76035
+stop_area:SNCF:87783266,"{'lat': '44.718235', 'lon': '3.283582'}",Aumont-Aubrac,admin:fr:48009,Peyre-en-Aubrac,48130,48009
+stop_area:SNCF:87545657,"{'lat': '48.446017', 'lon': '1.779882'}",Auneau,admin:fr:28317,Roinville,28700,28317
+stop_area:SNCF:87643965,"{'lat': '48.459433', 'lon': '1.772618'}",Auneau Piscine,admin:fr:28015,Auneau-Bleury-Saint-Symphorien,,28015
+stop_area:SNCF:87643973,"{'lat': '48.460294', 'lon': '1.769722'}",Auneau Texier Gallas,admin:fr:28015,Auneau-Bleury-Saint-Symphorien,,28015
+stop_area:SNCF:87688929,"{'lat': '48.459515', 'lon': '1.772664'}",Auneau-Résistance,admin:fr:28015,Auneau-Bleury-Saint-Symphorien,,28015
+stop_area:SNCF:87476200,"{'lat': '47.680085', 'lon': '-2.999363'}",Auray,admin:fr:56007,Auray,56400,56007
+stop_area:SNCF:87726760,"{'lat': '45.37118', 'lon': '4.198432'}",Aurec,admin:fr:43012,Aurec-sur-Loire,43110,43012
+stop_area:SNCF:87645002,"{'lat': '44.921041', 'lon': '2.435583'}",Aurillac,admin:fr:15014,Aurillac,15000,15014
+stop_area:SNCF:87611384,"{'lat': '43.348993', 'lon': '1.468831'}",Auterive,admin:fr:31033,Auterive,31190,31033
+stop_area:SNCF:87117457,"{'lat': '48.484054', 'lon': '5.849088'}",Autreville Centre,admin:fr:88020,Autreville,88300,88020
+stop_area:SNCF:87694570,"{'lat': '46.954943', 'lon': '4.293095'}",Autun,admin:fr:71014,Autun,71400,71014
+stop_area:SNCF:87605162,"{'lat': '46.95492', 'lon': '4.319054'}",Autun Base Du Vallon,admin:fr:71014,Autun,71400,71014
+stop_area:SNCF:87605147,"{'lat': '46.949966', 'lon': '4.298921'}",Autun Champ de Mars,admin:fr:71014,Autun,71400,71014
+stop_area:SNCF:87605972,"{'lat': '46.950693', 'lon': '4.303406'}",Autun Lycée Militaire,admin:fr:71014,Autun,71400,71014
+stop_area:SNCF:87605154,"{'lat': '46.95607', 'lon': '4.314569'}",Autun Pont L'Evêque,admin:fr:71014,Autun,71400,71014
+stop_area:SNCF:87276543,"{'lat': '49.070629', 'lon': '2.175285'}",Auvers-sur-Oise,admin:fr:95039,Auvers-sur-Oise,95430,95039
+stop_area:SNCF:87683573,"{'lat': '47.797645', 'lon': '3.58514'}",Auxerre Saint-Gervais,admin:fr:89024,Auxerre,89000,89024
+stop_area:SNCF:87117119,"{'lat': '48.103362', 'lon': '3.918858'}",Auxon Église,admin:fr:10018,Auxon,10130,10018
+stop_area:SNCF:87429761,"{'lat': '48.109185', 'lon': '3.915583'}",Auxon Route Nationale,admin:fr:10018,Auxon,10130,10018
+stop_area:SNCF:87713347,"{'lat': '47.192668', 'lon': '5.377356'}",Auxonne,admin:fr:21639,Tillenay,21130,21639
+stop_area:SNCF:87543207,"{'lat': '48.852985', 'lon': '2.280314'}",Av du Pdt Kennedy Radio France,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87304691,"{'lat': '46.96407', 'lon': '2.058472'}",Avail,admin:fr:36088,Issoudun,36100,36088
+stop_area:SNCF:87689422,"{'lat': '46.968184', 'lon': '2.045302'}",Avail Halte,admin:fr:36195,Saint-Georges-sur-Arnon,36100,36195
+stop_area:SNCF:87683789,"{'lat': '47.495755', 'lon': '3.912446'}",Avallon,admin:fr:89025,Avallon,89200,89025
+stop_area:SNCF:87171579,"{'lat': '49.064783', 'lon': '4.043689'}",Avenay,admin:fr:51028,Avenay-Val-d'Or,51160,51028
+stop_area:SNCF:87381038,"{'lat': '48.870971', 'lon': '2.275617'}",Avenue Foch,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87381046,"{'lat': '48.864408', 'lon': '2.272238'}",Avenue Henri Martin,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87984963,"{'lat': '48.826749', 'lon': '2.54967'}",Avenue-de-Gaumont,admin:fr:94079,Villiers-sur-Marne,94350,94079
+stop_area:SNCF:87295725,"{'lat': '50.118583', 'lon': '3.948544'}",Avesnelles,admin:fr:59035,Avesnelles,59440,59035
+stop_area:SNCF:87295733,"{'lat': '50.126722', 'lon': '3.932942'}",Avesnes,admin:fr:59036,Avesnes-sur-Helpe,59440,59036
+stop_area:SNCF:87765008,"{'lat': '43.941923', 'lon': '4.805269'}",Avignon Centre,admin:fr:84007,Avignon,84000,84007
+stop_area:SNCF:87318964,"{'lat': '43.92194', 'lon': '4.786136'}",Avignon TGV,admin:fr:84007,Avignon,84000,84007
+stop_area:SNCF:87616011,"{'lat': '43.363877', 'lon': '1.787269'}",Avignonet,admin:fr:31037,Avignonet-Lauragais,31290,31037
+stop_area:SNCF:87342584,"{'lat': '50.40721', 'lon': '2.833676'}",Avion,admin:fr:62065,Avion,62210,62065
+stop_area:SNCF:87576439,"{'lat': '47.034874', 'lon': '2.652335'}",Avord,admin:fr:18018,Avord,18520,18018
+stop_area:SNCF:87718551,"{'lat': '47.129852', 'lon': '6.43481'}",Avoudrey,admin:fr:25039,Avoudrey,25690,25039
+stop_area:SNCF:87448514,"{'lat': '48.690041', 'lon': '-1.369612'}",Avranches,admin:fr:50025,Avranches,,50025
+stop_area:SNCF:87313296,"{'lat': '49.444583', 'lon': '2.41792'}",Avrechy,admin:fr:60034,Avrechy,60130,60034
+stop_area:SNCF:87691725,"{'lat': '46.82338', 'lon': '3.880148'}",Avrée,admin:fr:58019,Avrée,58170,58019
+stop_area:SNCF:87215111,"{'lat': '48.651707', 'lon': '6.821681'}",Avricourt Nouvel Avricourt,admin:fr:57042,Avricourt,57810,57042
+stop_area:SNCF:87407056,"{'lat': '48.650089', 'lon': '6.812851'}",Avricourt Rue de Lorraine,admin:fr:57042,Avricourt,57810,57042
+stop_area:SNCF:87407049,"{'lat': '48.650559', 'lon': '6.806194'}",Avricourt Rue Des Halles,admin:fr:57042,Avricourt,57810,57042
+stop_area:SNCF:87611533,"{'lat': '42.724841', 'lon': '1.833295'}",Ax-les-Thermes,admin:fr:9032,Ax-les-Thermes,09110,9032
+stop_area:SNCF:87171561,"{'lat': '49.048797', 'lon': '4.00169'}",Ay,admin:fr:51030,Aÿ-Champagne,,51030
+stop_area:SNCF:87437806,"{'lat': '46.12761', 'lon': '-1.128293'}",Aytré Plage,admin:fr:17028,Aytré,17440,17028
+stop_area:SNCF:87571638,"{'lat': '47.266154', 'lon': '0.4476'}",Azay-le-Rideau,admin:fr:37014,Azay-le-Rideau,37190,37014
+stop_area:SNCF:87110296,"{'lat': '47.262332', 'lon': '0.466138'}",Azay-le-Rideau Mairie,admin:fr:37014,Azay-le-Rideau,37190,37014
+stop_area:SNCF:87574442,"{'lat': '47.365235', 'lon': '0.859876'}",Azay-sur-Cher,admin:fr:37156,Montlouis-sur-Loire,37270,37156
+stop_area:SNCF:87115337,"{'lat': '47.214671', 'lon': '0.940779'}",Azay-sur-Indre Le Paradis,admin:fr:37016,Azay-sur-Indre,37310,37016
+stop_area:SNCF:87644039,"{'lat': '47.209256', 'lon': '0.9460769999999999'}",Azay-sur-Indre Les 2 Rivières,admin:fr:37016,Azay-sur-Indre,37310,37016
+stop_area:SNCF:87141408,"{'lat': '48.491252', 'lon': '6.696164'}",Azerailles,admin:fr:54038,Azerailles,54122,54038
+stop_area:SNCF:87590349,"{'lat': '47.259149', 'lon': '-1.545312'}",Babinière,admin:fr:44035,La Chapelle-sur-Erdre,44240,44035
+stop_area:SNCF:87141416,"{'lat': '48.452092', 'lon': '6.743921'}",Baccarat,admin:fr:54039,Baccarat,54120,54039
+stop_area:SNCF:80142778,"{'lat': '48.7903', 'lon': '8.190899999999999'}",Baden-Baden,admin:osm:relation:62340,Baden-Baden,,
+stop_area:SNCF:87170357,"{'lat': '42.976236', 'lon': '0.625889'}",Bagiry,admin:fr:31041,Bagiry,31510,31041
+stop_area:SNCF:87613604,"{'lat': '44.665276', 'lon': '2.160192'}",Bagnac,admin:fr:46015,Bagnac-sur-Célé,46270,46015
+stop_area:SNCF:87684191,"{'lat': '48.230508', 'lon': '2.703366'}",Bagneaux-sur-Loing,admin:fr:77016,Bagneaux-sur-Loing,77167,77016
+stop_area:SNCF:87671578,"{'lat': '43.069372', 'lon': '0.148602'}",Bagnères-de-Bigorre,admin:fr:65059,Bagnères-de-Bigorre,,65059
+stop_area:SNCF:87758680,"{'lat': '48.793228', 'lon': '2.321012'}",Bagneux,admin:fr:94016,Cachan,94230,94016
+stop_area:SNCF:87449330,"{'lat': '48.54974', 'lon': '-0.424693'}",Bagnoles-de-l'Orne Église,admin:fr:61483,Bagnoles-de-l'Orne-Normandie,61140;61600,61483
+stop_area:SNCF:87352484,"{'lat': '48.557239', 'lon': '-0.412473'}",Bagnoles-de-l'Orne Office de T,admin:fr:61483,Bagnoles-de-l'Orne-Normandie,61140;61600,61483
+stop_area:SNCF:87783647,"{'lat': '44.528613', 'lon': '3.628178'}",Bagnols - Chadenet,admin:fr:48037,Chadenet,48190,48037
+stop_area:SNCF:87609354,"{'lat': '45.513707', 'lon': '2.597057'}",Bagnols-Stade,admin:fr:63028,Bagnols,63810,63028
+stop_area:SNCF:87773457,"{'lat': '43.653323', 'lon': '4.007159'}",Baillargues,admin:fr:34022,Baillargues,34670,34022
+stop_area:SNCF:87394411,"{'lat': '48.366928', 'lon': '1.325333'}",Bailleau-le-pin,admin:fr:28021,Bailleau-le-Pin,28120,28021
+stop_area:SNCF:87286179,"{'lat': '50.729152', 'lon': '2.734483'}",Bailleul,admin:fr:59043,Bailleul,59270,59043
+stop_area:SNCF:87342592,"{'lat': '50.335309', 'lon': '2.84106'}",Bailleul-Sir-Berthoult,admin:fr:62073,Bailleul-Sir-Berthoult,62580,62073
+stop_area:SNCF:87144147,"{'lat': '47.981216', 'lon': '6.295263'}",Bains-les-Bains,admin:fr:88108,Le Clerjus,88240,88108
+stop_area:SNCF:87286872,"{'lat': '50.618442', 'lon': '3.234784'}",Baisieux,admin:fr:59044,Baisieux,59780,59044
+stop_area:SNCF:87517953,"{'lat': '44.920978', 'lon': '1.556299'}",Baladou,admin:fr:46016,Baladou,46600,46016
+stop_area:SNCF:87313569,"{'lat': '49.29431', 'lon': '2.344063'}",Balagny Saint-Épin,admin:fr:60044,Balagny-sur-Thérain,60250,60044
+stop_area:SNCF:87414706,"{'lat': '48.836811', 'lon': '2.278751'}",Balard,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87420828,"{'lat': '44.502509', 'lon': '4.386705'}",Balazuc RD579,admin:fr:7023,Balazuc,07120,7023
+stop_area:SNCF:87726869,"{'lat': '45.817868', 'lon': '4.187427'}",Balbigny,admin:fr:42011,Balbigny,42510,42011
+stop_area:SNCF:87698399,"{'lat': '45.818022', 'lon': '4.187175'}",Balbigny-Gare-Routière,admin:fr:42011,Balbigny,42510,42011
+stop_area:SNCF:87187930,"{'lat': '47.57031', 'lon': '7.572745'}",Bâle Saint-Jean,admin:osm:relation:1683619,Basel,,
+stop_area:SNCF:87571604,"{'lat': '47.336747', 'lon': '0.617807'}",Ballan,admin:fr:37018,Ballan-Miré,37510,37018
+stop_area:SNCF:87681437,"{'lat': '48.532114', 'lon': '2.371274'}",Ballancourt,admin:fr:91045,Ballancourt-sur-Essonne,91610,91045
+stop_area:SNCF:87640656,"{'lat': '44.482325', 'lon': '3.456205'}",Balsièges Arrêt RN88,admin:fr:48016,Balsièges,48000,48016
+stop_area:SNCF:87111864,"{'lat': '44.482212', 'lon': '3.456598'}",Balsièges Bourg,admin:fr:48016,Balsièges,48000,48016
+stop_area:SNCF:87783324,"{'lat': '44.447763', 'lon': '3.195852'}",Banassac - La Canourgue,admin:fr:48017,Banassac-Canilhac,,48017
+stop_area:SNCF:87755223,"{'lat': '43.140385', 'lon': '5.750128'}",Bandol,admin:fr:83009,Bandol,83150,83009
+stop_area:SNCF:87474189,"{'lat': '47.926867', 'lon': '-3.706417'}",Bannalec,admin:fr:29004,Bannalec,29380,29004
+stop_area:SNCF:87314906,"{'lat': '47.386964', 'lon': '2.885861'}",Bannay Bourg,admin:fr:18020,Bannay,18300,18020
+stop_area:SNCF:87643890,"{'lat': '47.386664', 'lon': '2.88571'}",Bannay les Hautes de Bussy,admin:fr:18020,Bannay,18300,18020
+stop_area:SNCF:87213298,"{'lat': '49.005201', 'lon': '7.502456'}",Bannstein Croisement,admin:fr:57188,Éguelshardt,57230,57188
+stop_area:SNCF:87182840,"{'lat': '47.811132', 'lon': '7.503976'}",Bantzenheim,admin:fr:68020,Bantzenheim,68490,68020
+stop_area:SNCF:87784298,"{'lat': '42.482958', 'lon': '3.12505'}",Banyuls-sur-Mer,admin:fr:66016,Banyuls-sur-Mer,66650,66016
+stop_area:SNCF:87727909,"{'lat': '48.227346', 'lon': '4.704348'}",Bar sur Aube Collége,admin:fr:10033,Bar-sur-Aube,10200,10033
+stop_area:SNCF:87175042,"{'lat': '48.773598', 'lon': '5.167053'}",Bar-le-Duc,admin:fr:55029,Bar-le-Duc,55000,55029
+stop_area:SNCF:87118299,"{'lat': '48.238559', 'lon': '4.706872'}",Bar-sur-Aube,admin:fr:10033,Bar-sur-Aube,10200,10033
+stop_area:SNCF:87215608,"{'lat': '48.230851', 'lon': '4.715031'}",Bar-sur-Aube Hôpital,admin:fr:10033,Bar-sur-Aube,10200,10033
+stop_area:SNCF:87398735,"{'lat': '48.233353', 'lon': '4.706421'}",Bar-sur-Aube Hôtel de Ville,admin:fr:10033,Bar-sur-Aube,10200,10033
+stop_area:SNCF:87732222,"{'lat': '48.226706', 'lon': '4.700115'}",Bar-sur-Aube Lycée,admin:fr:10033,Bar-sur-Aube,10200,10033
+stop_area:SNCF:87215616,"{'lat': '48.241129', 'lon': '4.697251'}",Bar-sur-Aube Piscine,admin:fr:10033,Bar-sur-Aube,10200,10033
+stop_area:SNCF:87615757,"{'lat': '44.270512', 'lon': '2.4274'}",Baraqueville,admin:fr:12056,Baraqueville,12160,12056
+stop_area:SNCF:87441725,"{'lat': '44.277088', 'lon': '2.432651'}",Baraqueville Place Centrale,admin:fr:12056,Baraqueville,12160,12056
+stop_area:SNCF:87462911,"{'lat': '46.908976', 'lon': '-2.159106'}",Barbâtre Rond-Point de Gois,admin:fr:85011,Barbâtre,85630,85011
+stop_area:SNCF:87139527,"{'lat': '48.336447', 'lon': '4.02149'}",Barberey-Saint-Sulpice Centre,admin:fr:10030,Barberey-Saint-Sulpice,10600,10030
+stop_area:SNCF:87139535,"{'lat': '48.338838', 'lon': '4.030786'}",Barberey-Saint-Sulpice Route d,admin:fr:10030,Barberey-Saint-Sulpice,10600,10030
+stop_area:SNCF:71718010,"{'lat': '41.378961', 'lon': '2.139834'}",Barcelone-Sants,admin:osm:relation:347950,Barcelona,,
+stop_area:SNCF:87671057,"{'lat': '43.702983', 'lon': '-0.237051'}",Barcelonne-du-Gers,admin:fr:32027,Barcelonne-du-Gers,32720,32027
+stop_area:SNCF:83002022,"{'lat': '45.076449', 'lon': '6.709963'}",BARDONECCHIA,admin:osm:relation:44251,Bardonecchia,,
+stop_area:SNCF:87620179,"{'lat': '42.896126', 'lon': '0.06253300000000001'}",Barèges,admin:fr:65481,Barèges,65120,65481
+stop_area:SNCF:87411264,"{'lat': '49.549123', 'lon': '0.9535169999999999'}",Barentin,admin:fr:76057,Barentin,76360,76057
+stop_area:SNCF:87732941,"{'lat': '49.54213', 'lon': '0.954512'}",Barentin Hôpital,admin:fr:76057,Barentin,76360,76057
+stop_area:SNCF:87732933,"{'lat': '49.547076', 'lon': '0.957979'}",Barentin Rue Locke,admin:fr:76057,Barentin,76360,76057
+stop_area:SNCF:87297291,"{'lat': '49.630791', 'lon': '3.655991'}",Barenton-Bugny,admin:fr:2046,Barenton-Bugny,02000,2046
+stop_area:SNCF:87332361,"{'lat': '49.642957', 'lon': '3.653898'}",Barenton-Cel,admin:fr:2047,Barenton-Cel,02000,2047
+stop_area:SNCF:87332379,"{'lat': '49.672222', 'lon': '3.68'}",Barenton-sur-Serre,admin:fr:2048,Barenton-sur-Serre,02270,2048
+stop_area:SNCF:87141754,"{'lat': '48.535008', 'lon': '5.83992'}",Barisey-la-Côte Gare,admin:fr:54046,Barisey-au-Plain,54170,54046
+stop_area:SNCF:87405712,"{'lat': '48.544182', 'lon': '5.842809'}",Barisey-la-Côte Mairie,admin:fr:54047,Barisey-la-Côte,54170,54047
+stop_area:SNCF:87783563,"{'lat': '44.499264', 'lon': '3.410979'}",Barjac,admin:fr:48018,Barjac,48000,48018
+stop_area:SNCF:87192658,"{'lat': '49.284534', 'lon': '5.699708'}",Baroncourt,admin:fr:55158,Dommary-Baroncourt,55240,55158
+stop_area:SNCF:87193110,"{'lat': '48.934734', 'lon': '6.60836'}",Baronville Mairie,admin:fr:57051,Baronville,57340,57051
+stop_area:SNCF:87214247,"{'lat': '48.40348', 'lon': '7.456713'}",Barr,admin:fr:67021,Barr,67140,67021
+stop_area:SNCF:87582759,"{'lat': '44.605431', 'lon': '-0.321578'}",Barsac,admin:fr:33030,Barsac,33720,33030
+stop_area:SNCF:87182113,"{'lat': '47.634931', 'lon': '7.487256'}",Bartenheim,admin:fr:68021,Bartenheim,68870,68021
+stop_area:SNCF:87659870,"{'lat': '47.635011', 'lon': '7.476127'}",Bartenheim Pharmacie,admin:fr:68021,Bartenheim,68870,68021
+stop_area:SNCF:87726778,"{'lat': '45.297683', 'lon': '4.139678'}",Bas - Monistrol,admin:fr:43020,Bas-en-Basset,43210,43020
+stop_area:SNCF:87184200,"{'lat': '47.681084', 'lon': '6.806922'}",Bas Évette,admin:fr:90042,Évette-Salbert,90350,90042
+stop_area:SNCF:82007187,"{'lat': '49.5585', 'lon': '5.9249'}",Bascharage secteur Sanem,admin:osm:relation:407885,Käerjeng,,
+stop_area:SNCF:87699223,"{'lat': '47.320149', 'lon': '1.681294'}",Base Aérienne,admin:fr:41097,Gièvres,41130,41097
+stop_area:SNCF:85000109,"{'lat': '47.5474', 'lon': '7.58956'}",Basel SBB,admin:osm:relation:1683619,Basel,,
+stop_area:SNCF:87703769,"{'lat': '49.380894', 'lon': '6.234288'}",Basse-Ham Stade,admin:fr:57287,Basse-Ham,57970,57287
+stop_area:SNCF:85001222,"{'lat': '47.33668', 'lon': '7.24685'}",Bassecourt,admin:osm:relation:2759181,Haute-Sorne,2863,
+stop_area:SNCF:87581850,"{'lat': '44.901307', 'lon': '-0.522282'}",Bassens,admin:fr:33032,Bassens,33530,33032
+stop_area:SNCF:87215293,"{'lat': '48.867778', 'lon': '6.801111'}",Bassing Croisement,admin:fr:57053,Bassing,57260,57053
+stop_area:SNCF:87481770,"{'lat': '47.280855', 'lon': '-2.478869'}",Batz-sur-Mer,admin:fr:44010,Batz-sur-Mer,44740,44010
+stop_area:SNCF:87192245,"{'lat': '48.961219', 'lon': '6.451845'}",Baudrecourt Centre,admin:fr:57054,Baudrecourt,57580,57054
+stop_area:SNCF:87487835,"{'lat': '47.541229', 'lon': '-0.103675'}",Baugé,admin:fr:49018,Baugé-en-Anjou,49150,49018
+stop_area:SNCF:87574152,"{'lat': '47.811886', 'lon': '1.668274'}",Baule,admin:fr:45024,Baule,45130,45024
+stop_area:SNCF:87718460,"{'lat': '47.353972', 'lon': '6.359649'}",Baume-les-Dames,admin:fr:25047,Baume-les-Dames,25110,25047
+stop_area:SNCF:87345280,"{'lat': '50.51168', 'lon': '2.9054'}",Bauvin - Provin,admin:fr:59052,Bauvin,59221,59052
+stop_area:SNCF:87175133,"{'lat': '48.55203', 'lon': '5.075444'}",Bayard,admin:fr:52265,Bayard-sur-Marne,52170,52265
+stop_area:SNCF:87279901,"{'lat': '48.198906', 'lon': '4.776143'}",Bayel Église,admin:fr:10035,Bayel,10310,10035
+stop_area:SNCF:87732297,"{'lat': '48.196753', 'lon': '4.77545'}",Bayel Place du G.de Gaulle,admin:fr:10035,Bayel,10310,10035
+stop_area:SNCF:87444067,"{'lat': '49.269729', 'lon': '-0.6981000000000001'}",Bayeux,admin:fr:14047,Bayeux,14400,14047
+stop_area:SNCF:87141218,"{'lat': '48.468045', 'lon': '6.32286'}",Bayon,admin:fr:54585,Virecourt,54290,54585
+stop_area:SNCF:87673004,"{'lat': '43.496793', 'lon': '-1.470368'}",Bayonne,admin:fr:64102,Bayonne,64100,64102
+stop_area:SNCF:87171462,"{'lat': '49.361095', 'lon': '4.174135'}",Bazancourt,admin:fr:51043,Bazancourt,51110,51043
+stop_area:SNCF:87172312,"{'lat': '49.672292', 'lon': '4.986544'}",Bazeilles,admin:fr:8053,Bazeilles,08140,8053
+stop_area:SNCF:87671602,"{'lat': '43.291111', 'lon': '0.06888900000000001'}",Bazet,admin:fr:65072,Bazet,65460,65072
+stop_area:SNCF:87611723,"{'lat': '43.453608', 'lon': '1.620698'}",Baziège,admin:fr:31048,Baziège,31450,31048
+stop_area:SNCF:87696468,"{'lat': '46.865293', 'lon': '3.318075'}",Béard,admin:fr:58025,Béard,58160,58025
+stop_area:SNCF:87533547,"{'lat': '46.863155', 'lon': '3.326727'}",Béard Bourg,admin:fr:58025,Béard,58160,58025
+stop_area:SNCF:87317610,"{'lat': '50.94538', 'lon': '1.898033'}",Beau Marais,admin:fr:62193,Calais,62100,62193
+stop_area:SNCF:87775023,"{'lat': '43.80209', 'lon': '4.647087'}",Beaucaire,admin:fr:30032,Beaucaire,30300,30032
+stop_area:SNCF:87761528,"{'lat': '44.825498', 'lon': '4.801353'}",Beauchastel-centre,admin:fr:7027,Beauchastel,07800,7027
+stop_area:SNCF:87574160,"{'lat': '47.778404', 'lon': '1.625944'}",Beaugency,admin:fr:45028,Beaugency,45190,45028
+stop_area:SNCF:87756379,"{'lat': '43.706692', 'lon': '7.331631'}",Beaulieu-sur-Mer,admin:fr:6011,Beaulieu-sur-Mer,06310,6011
+stop_area:SNCF:87611632,"{'lat': '43.882769', 'lon': '0.98907'}",Beaumont-de-Lomagne,admin:fr:82013,Beaumont-de-Lomagne,82500,82013
+stop_area:SNCF:87387183,"{'lat': '49.0742', 'lon': '0.772699'}",Beaumont-le-Roger,admin:fr:27051,Beaumont-le-Roger,27170,27051
+stop_area:SNCF:87713545,"{'lat': '47.023014', 'lon': '4.848423'}",Beaune,admin:fr:21054,Beaune,21200,21054
+stop_area:SNCF:87317198,"{'lat': '50.422891', 'lon': '1.895345'}",Beaurainville,admin:fr:62100,Beaurainville,62990,62100
+stop_area:SNCF:87582700,"{'lat': '44.701059', 'lon': '-0.450174'}",Beautiran,admin:fr:33037,Beautiran,33640,33037
+stop_area:SNCF:87313510,"{'lat': '49.426518', 'lon': '2.088655'}",Beauvais,admin:fr:60057,Beauvais,60000,60057
+stop_area:SNCF:87551937,"{'lat': '43.913032', 'lon': '1.568754'}",Beauvais Tescou,admin:fr:81024,Beauvais-sur-Tescou,81630,81024
+stop_area:SNCF:87769612,"{'lat': '44.858303', 'lon': '4.900911'}",Beauvallon,admin:fr:26042,Beauvallon,26800,26042
+stop_area:SNCF:87320739,"{'lat': '46.917354', 'lon': '-2.046084'}",Beauvoir-sur-Mer,admin:fr:85018,Beauvoir-sur-Mer,85230,85018
+stop_area:SNCF:87485342,"{'lat': '46.17687', 'lon': '-0.468873'}",Beauvoir-sur-Niort,admin:fr:79031,Beauvoir-sur-Niort,79360,79031
+stop_area:SNCF:87775809,"{'lat': '43.724503', 'lon': '4.321218'}",Beauvoisin,admin:fr:30033,Beauvoisin,30640,30033
+stop_area:SNCF:87726794,"{'lat': '45.258168', 'lon': '4.099086'}",Beauzac,admin:fr:43025,Beauzac,43590,43025
+stop_area:SNCF:87117697,"{'lat': '48.711668', 'lon': '6.998459'}",Bébing Route Nationale,admin:fr:57056,Bébing,57830,57056
+stop_area:SNCF:87382002,"{'lat': '48.90587', 'lon': '2.268307'}",Bécon les Bruyères,admin:fr:92026,Courbevoie,92400,92026
+stop_area:SNCF:87781609,"{'lat': '43.608697', 'lon': '3.149569'}",Bédarieux,admin:fr:34028,Bédarieux,34600,34028
+stop_area:SNCF:87765198,"{'lat': '44.040843', 'lon': '4.89325'}",Bédarrides,admin:fr:84016,Bédarrides,84370,84016
+stop_area:SNCF:87672774,"{'lat': '42.995564', 'lon': '-0.603514'}",Bedous,admin:fr:64104,Bedous,64490,64104
+stop_area:SNCF:87581801,"{'lat': '44.799319', 'lon': '-0.555357'}",Bègles,admin:fr:33039,Bègles,33130,33039
+stop_area:SNCF:87184002,"{'lat': '47.633278', 'lon': '6.854053'}",Belfort,admin:fr:90010,Belfort,90000,90010
+stop_area:SNCF:87300822,"{'lat': '47.585105', 'lon': '6.897984'}",Belfort - Montbéliard TGV,admin:fr:90068,Meroux-Moval,90400,90068
+stop_area:SNCF:87592485,"{'lat': '46.125255', 'lon': '1.046104'}",Bellac,admin:fr:87011,Bellac,87300,87011
+stop_area:SNCF:87473165,"{'lat': '48.593569', 'lon': '-3.322951'}",Belle-Isle - Bégard,admin:fr:22135,Louargat,22540,22135
+stop_area:SNCF:87745000,"{'lat': '46.109425', 'lon': '5.823483'}",Bellegarde,admin:fr:1033,Valserhône,01200,1033
+stop_area:SNCF:87698407,"{'lat': '46.110645', 'lon': '5.824986'}",Bellegarde Gare Routière,admin:fr:1033,Valserhône,01200,1033
+stop_area:SNCF:87742726,"{'lat': '46.11534', 'lon': '5.815965'}",Bellegarde-sur-Valserine Lycée,admin:fr:1033,Valserhône,01200,1033
+stop_area:SNCF:87641068,"{'lat': '46.199275', 'lon': '3.066583'}",Bellenaves,admin:fr:3022,Bellenaves,03330,3022
+stop_area:SNCF:87141804,"{'lat': '48.819245', 'lon': '6.101779'}",Belleville,admin:fr:54060,Belleville,54940,54060
+stop_area:SNCF:87721357,"{'lat': '46.111952', 'lon': '4.729011'}",Belleville sur Sâone,admin:fr:69019,Belleville-en-Beaujolais,,69019
+stop_area:SNCF:87486142,"{'lat': '46.788329', 'lon': '-1.434512'}",Belleville-Vendée,admin:fr:85019,Bellevigny,85170,85019
+stop_area:SNCF:87393116,"{'lat': '48.819003', 'lon': '2.229674'}",Bellevue,admin:fr:92048,Meudon,92190;92360,92048
+stop_area:SNCF:87743526,"{'lat': '46.238622', 'lon': '5.630407'}",Bellignat,admin:fr:1031,Bellignat,01100,1031
+stop_area:SNCF:87695973,"{'lat': '46.248547', 'lon': '5.63221'}",Bellignat - Lycée-Arbez-Carme,admin:fr:1031,Bellignat,01100,1031
+stop_area:SNCF:87695981,"{'lat': '46.24246', 'lon': '5.629689'}",Bellignat-Mairie,admin:fr:1031,Bellignat,01100,1031
+stop_area:SNCF:87448092,"{'lat': '48.690574', 'lon': '-0.442468'}",Bellou-en-Houlme,admin:fr:61040,Bellou-en-Houlme,61220,61040
+stop_area:SNCF:87276550,"{'lat': '49.09807', 'lon': '2.36135'}",Belloy - Saint-Martin,admin:fr:95056,Belloy-en-France,95270,95056
+stop_area:SNCF:87595876,"{'lat': '44.777341', 'lon': '1.012071'}",Belvès,admin:fr:24035,Pays de Belvès,24170,24035
+stop_area:SNCF:87783670,"{'lat': '44.561778', 'lon': '3.751869'}",Belvezet,admin:fr:48027,Mont Lozère et Goulet,,48027
+stop_area:SNCF:87784892,"{'lat': '42.458078', 'lon': '1.916726'}",Bena Fanes,admin:fr:66066,Enveitg,66760,66066
+stop_area:SNCF:87673285,"{'lat': '43.6277', 'lon': '-1.369893'}",Bénesse-Maremne,admin:fr:40036,Bénesse-Maremne,40230,40036
+stop_area:SNCF:87192302,"{'lat': '48.906554', 'lon': '6.753196'}",Bénestroff,admin:fr:57060,Bénestroff,57670,57060
+stop_area:SNCF:87407114,"{'lat': '48.904634', 'lon': '6.758975'}",Bénestroff Centre,admin:fr:57060,Bénestroff,57670,57060
+stop_area:SNCF:87485581,"{'lat': '46.373673', 'lon': '-0.581999'}",Benet Riche Bonne,admin:fr:85020,Benet,85490,85020
+stop_area:SNCF:87214122,"{'lat': '48.374069', 'lon': '7.583866'}",Benfeld,admin:fr:67028,Benfeld,67230,67028
+stop_area:SNCF:87576447,"{'lat': '47.000438', 'lon': '2.749149'}",Bengy,admin:fr:18027,Bengy-sur-Craon,18520,18027
+stop_area:SNCF:87193250,"{'lat': '49.138056', 'lon': '6.82848'}",Béning-lès-Saint-Avold,admin:fr:57061,Béning-lès-Saint-Avold,57800,57061
+stop_area:SNCF:80191064,"{'lat': '48.9807', 'lon': '8.2128'}",Berg (Pfalz),admin:osm:relation:1250483,Berg (Pfalz),,
+stop_area:SNCF:87584268,"{'lat': '44.857061', 'lon': '0.489174'}",Bergerac,admin:fr:24037,Bergerac,24100,24037
+stop_area:SNCF:87643460,"{'lat': '48.205616', 'lon': '7.357543'}",Bergheim Porte haute,admin:fr:68028,Bergheim,68750,68028
+stop_area:SNCF:87281105,"{'lat': '50.968978', 'lon': '2.425693'}",Bergues,admin:fr:59067,Bergues,59380,59067
+stop_area:SNCF:87295808,"{'lat': '50.198046', 'lon': '3.810518'}",Berlaimont,admin:fr:59068,Berlaimont,59145,59068
+stop_area:SNCF:87192187,"{'lat': '48.93136', 'lon': '6.71041'}",Bermering Eglise,admin:fr:57065,Bermering,57340,57065
+stop_area:SNCF:87671529,"{'lat': '43.169917', 'lon': '0.102731'}",Bernac-Debat,admin:fr:65083,Bernac-Debat,65360,65083
+stop_area:SNCF:87620120,"{'lat': '43.159141', 'lon': '0.104618'}",Bernac-Dessus - Arcizac,admin:fr:65019,Arcizac-Adour,65360,65019
+stop_area:SNCF:87444299,"{'lat': '49.087116', 'lon': '0.595688'}",Bernay,admin:fr:27056,Bernay,27300,27056
+stop_area:SNCF:87592352,"{'lat': '46.083814', 'lon': '1.432128'}",Bersac,admin:fr:87013,Bersac-sur-Rivalier,87370,87013
+stop_area:SNCF:87477562,"{'lat': '48.81635', 'lon': '7.006759'}",Berthelming Mairie,admin:fr:57066,Berthelming,57930,57066
+stop_area:SNCF:87703561,"{'lat': '48.818607', 'lon': '7.00887'}",Berthelming Principale,admin:fr:57066,Berthelming,57930,57066
+stop_area:SNCF:87138883,"{'lat': '44.392848', 'lon': '2.78188'}",Bertholène Café Girou,admin:fr:12026,Bertholène,12310,12026
+stop_area:SNCF:87170555,"{'lat': '42.999107', 'lon': '0.618014'}",Bertren,admin:fr:65087,Bertren,65370,65087
+stop_area:SNCF:87170571,"{'lat': '43.003258', 'lon': '0.614325'}",Bertren Nord,admin:fr:65087,Bertren,65370,65087
+stop_area:SNCF:87170696,"{'lat': '42.994703', 'lon': '0.621499'}",Bertren Sud,admin:fr:65087,Bertren,65370,65087
+stop_area:SNCF:87141424,"{'lat': '48.428401', 'lon': '6.791125'}",Bertrichamps,admin:fr:54065,Bertrichamps,54120,54065
+stop_area:SNCF:87345553,"{'lat': '50.091227', 'lon': '3.448747'}",Bertry,admin:fr:59074,Bertry,59980,59074
+stop_area:SNCF:87300863,"{'lat': '47.307215', 'lon': '5.953613'}",Besançon Franche-Comté TGV,admin:fr:25035,Les Auxons,25870,25035
+stop_area:SNCF:87718015,"{'lat': '47.240397', 'lon': '6.033804'}",Besançon Mouillère,admin:fr:25056,Besançon,25000,25056
+stop_area:SNCF:87718007,"{'lat': '47.247049', 'lon': '6.021943'}",Besançon Viotte,admin:fr:25056,Besançon,25000,25056
+stop_area:SNCF:87471219,"{'lat': '47.698879', 'lon': '-1.870637'}",Beslé,admin:fr:44067,Guémené-Penfao,44290,44067
+stop_area:SNCF:87276642,"{'lat': '49.035784', 'lon': '2.209939'}",Bessancourt,admin:fr:95060,Bessancourt,95550,95060
+stop_area:SNCF:87696336,"{'lat': '46.442973', 'lon': '3.360642'}",Bessay,admin:fr:3025,Bessay-sur-Allier,03340,3025
+stop_area:SNCF:87342006,"{'lat': '50.521469', 'lon': '2.640447'}",Béthune,admin:fr:62119,Béthune,62400,62119
+stop_area:SNCF:87703579,"{'lat': '48.801309', 'lon': '7.020655'}",Bettborn Grand Rue,admin:fr:57071,Bettborn,57930,57071
+stop_area:SNCF:87191999,"{'lat': '49.516111', 'lon': '6.101111'}",Bettembourg,admin:osm:relation:407896,Bettembourg,,
+stop_area:SNCF:87471045,"{'lat': '48.18148', 'lon': '-1.634475'}",Betton,admin:fr:35024,Betton,35830,35024
+stop_area:SNCF:87343160,"{'lat': '50.389533', 'lon': '3.506111'}",Beuvrages,admin:fr:59079,Beuvrages,59192,59079
+stop_area:SNCF:87342402,"{'lat': '50.535702', 'lon': '2.691487'}",Beuvry lès Béthune,admin:fr:62126,Beuvry,62660,62126
+stop_area:SNCF:85014027,"{'lat': '46.25146', 'lon': '7.00067'}",Bex,admin:osm:relation:1684852,Bex,1880,
+stop_area:SNCF:87393363,"{'lat': '48.85936', 'lon': '1.87557'}",Beynes,admin:fr:78062,Beynes,78650,78062
+stop_area:SNCF:87723544,"{'lat': '45.833898', 'lon': '5.006947'}",Beynost,admin:fr:1043,Beynost,01700,1043
+stop_area:SNCF:87698415,"{'lat': '45.836729', 'lon': '5.005507'}",Beynost RD 1084 Gare,admin:fr:1043,Beynost,01700,1043
+stop_area:SNCF:87618652,"{'lat': '42.960599', 'lon': '0.379321'}",Beyrède-Jumet,admin:fr:65092,Beyrède-Jumet-Camous,65410,65092
+stop_area:SNCF:87781005,"{'lat': '43.336295', 'lon': '3.218895'}",Béziers,admin:fr:34032,Béziers,34500,34032
+stop_area:SNCF:87447730,"{'lat': '43.34526', 'lon': '3.21796'}",Beziers gare routière,admin:fr:34032,Béziers,34500,34032
+stop_area:SNCF:87432823,"{'lat': '48.923648', 'lon': '2.208316'}",Bezons-Grand-Cerf Noctilien,admin:fr:95063,Bezons,95870,95063
+stop_area:SNCF:87342097,"{'lat': '50.316266', 'lon': '2.941533'}",Biache-Saint-Vaast,admin:fr:62128,Biache-Saint-Vaast,62118,62128
+stop_area:SNCF:87673400,"{'lat': '43.459387', 'lon': '-1.545937'}",Biarritz,admin:fr:64122,Biarritz,64200,64122
+stop_area:SNCF:87328328,"{'lat': '48.82984', 'lon': '2.37684'}",Bibliothèque François Mitterrand,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87673699,"{'lat': '43.26812', 'lon': '-1.345104'}",Bidarray Pont Noblia,admin:fr:64124,Bidarray,64780,64124
+stop_area:SNCF:87691949,"{'lat': '43.178929', 'lon': '-0.606976'}",Bidos,admin:fr:64126,Bidos,64400,64126
+stop_area:SNCF:85043000,"{'lat': '47.13289', 'lon': '7.24292'}",Biel/Bienne,admin:osm:relation:1682380,Biel/Bienne,,
+stop_area:SNCF:87402826,"{'lat': '48.581682', 'lon': '5.045587'}",Bienville,admin:fr:52194,Eurville-Bienville,52410,52194
+stop_area:SNCF:87393546,"{'lat': '48.751276', 'lon': '2.2157'}",Bièvres,admin:fr:91064,Bièvres,91570,91064
+stop_area:SNCF:87716456,"{'lat': '48.211291', 'lon': '6.805456'}",Biffontaine Mairie,admin:fr:88059,Biffontaine,88430,88059
+stop_area:SNCF:87582478,"{'lat': '44.637384', 'lon': '-0.96621'}",Biganos Facture,admin:fr:33051,Biganos,33380,33051
+stop_area:SNCF:87576306,"{'lat': '46.801552', 'lon': '2.369954'}",Bigny,admin:fr:18270,Vallenay,18190,18270
+stop_area:SNCF:87345140,"{'lat': '50.415556', 'lon': '2.912042'}",Billy-Montigny,admin:fr:62133,Billy-Montigny,62420,62133
+stop_area:SNCF:87757690,"{'lat': '43.610937', 'lon': '7.126192'}",Biot,admin:fr:6004,Antibes,06160;06600,6004
+stop_area:SNCF:87212308,"{'lat': '48.611835', 'lon': '7.742216'}",Bischheim,admin:fr:67447,Schiltigheim,67300,67447
+stop_area:SNCF:87658930,"{'lat': '48.610657', 'lon': '7.750844'}",Bischheim Arrêt CTS R. Gare,admin:fr:67447,Schiltigheim,67300,67447
+stop_area:SNCF:87214296,"{'lat': '48.48701', 'lon': '7.49772'}",Bischoffsheim,admin:fr:67045,Bischoffsheim,67870,67045
+stop_area:SNCF:87703470,"{'lat': '48.901094', 'lon': '7.071829'}",Bischtroff-sur-Sarre Mairie,admin:fr:67435,Sarrewerden,67260,67435
+stop_area:SNCF:87213611,"{'lat': '48.765753', 'lon': '7.851654'}",Bischwiller,admin:fr:67046,Bischwiller,67240,67046
+stop_area:SNCF:87659805,"{'lat': '48.764098', 'lon': '7.859784'}",Bischwiller Église Catholique,admin:fr:67046,Bischwiller,67240,67046
+stop_area:SNCF:87659813,"{'lat': '48.770589', 'lon': '7.847867'}",Bischwiller Vestra,admin:fr:67046,Bischwiller,67240,67046
+stop_area:SNCF:87193821,"{'lat': '49.048717', 'lon': '7.432153'}",Bitche Ancienne Gare,admin:fr:57089,Bitche,57230,57089
+stop_area:SNCF:87193839,"{'lat': '49.04892', 'lon': '7.476046'}",Bitche Camp,admin:fr:57089,Bitche,57230,57089
+stop_area:SNCF:87642801,"{'lat': '49.054942', 'lon': '7.456211'}",Bitche Quartier Driant,admin:fr:57089,Bitche,57230,57089
+stop_area:SNCF:87406934,"{'lat': '49.048904', 'lon': '7.428641'}",Bitche Rue de la Paix,admin:fr:57089,Bitche,57230,57089
+stop_area:SNCF:87182576,"{'lat': '47.827372', 'lon': '7.078514'}",Bitschwiller-lès-Thann,admin:fr:68040,Bitschwiller-lès-Thann,68620,68040
+stop_area:SNCF:87659953,"{'lat': '47.829182', 'lon': '7.079737'}",Bitschwiller-lès-Thann Mairie,admin:fr:68040,Bitschwiller-lès-Thann,68620,68040
+stop_area:SNCF:87688499,"{'lat': '44.710424', 'lon': '5.090696'}",Blacons,admin:fr:26183,Mirabel-et-Blacons,26400,26183
+stop_area:SNCF:87172387,"{'lat': '49.619677', 'lon': '5.189758'}",Blagny,admin:fr:8067,Blagny,08110,8067
+stop_area:SNCF:87141135,"{'lat': '48.564799', 'lon': '6.386948'}",Blainville - Damelevières,admin:fr:54152,Damelevières,54360,54152
+stop_area:SNCF:87713073,"{'lat': '47.373829', 'lon': '4.740814'}",Blaisy-Bas,admin:fr:21080,Blaisy-Bas,21540,21080
+stop_area:SNCF:87146290,"{'lat': '48.33863', 'lon': '6.65864'}",Blanchefontaine,admin:fr:88367,Rambervillers,88700,88367
+stop_area:SNCF:87313809,"{'lat': '49.932363', 'lon': '1.625558'}",Blangy-sur-Bresle,admin:fr:76101,Blangy-sur-Bresle,76340,76101
+stop_area:SNCF:87317248,"{'lat': '50.424679', 'lon': '2.172219'}",Blangy-sur-Ternoise,admin:fr:62138,Blangy-sur-Ternoise,62770,62138
+stop_area:SNCF:87316034,"{'lat': '49.87782', 'lon': '2.408742'}",Blangy-Tronville - Glisy,admin:fr:80107,Blangy-Tronville,80440,80107
+stop_area:SNCF:87581728,"{'lat': '44.917585', 'lon': '-0.6238899999999999'}",Blanquefort,admin:fr:33056,Blanquefort,33290,33056
+stop_area:SNCF:87694612,"{'lat': '46.694064', 'lon': '4.391358'}",Blanzy,admin:fr:71040,Blanzy,71450,71040
+stop_area:SNCF:87169581,"{'lat': '44.494378', 'lon': '1.090758'}",Blazac,admin:fr:46336,Vire-sur-Lot,46700,46336
+stop_area:SNCF:87141721,"{'lat': '48.59948', 'lon': '5.843568'}",Blénod-lès-Toul Les Naux,admin:fr:54080,Blénod-lès-Toul,54113,54080
+stop_area:SNCF:87574475,"{'lat': '47.337741', 'lon': '0.987745'}",Bléré - la Croix,admin:fr:37091,La Croix-en-Touraine,37150,37091
+stop_area:SNCF:87417477,"{'lat': '48.725655', 'lon': '4.775827'}",Blesme,admin:fr:51068,Blesme,51340,51068
+stop_area:SNCF:87174326,"{'lat': '48.717997', 'lon': '4.75219'}",Blesme - Haussignémont,admin:fr:51284,Haussignémont,51300,51284
+stop_area:SNCF:87574004,"{'lat': '47.585449', 'lon': '1.323759'}",Blois - Chambord,admin:fr:41018,Blois,41000,41018
+stop_area:SNCF:87152322,"{'lat': '49.338611', 'lon': '0.027778'}",Blonville-sur-Mer,admin:fr:14079,Blonville-sur-Mer,14910,14079
+stop_area:SNCF:87986513,"{'lat': '48.912738', 'lon': '2.435349'}",Bobigny - Normandie-Niemen,admin:fr:93008,Bobigny,93000,93008
+stop_area:SNCF:87146019,"{'lat': '48.218368', 'lon': '6.307772'}",Bocquegney,admin:fr:88063,Bocquegney,88270,88063
+stop_area:SNCF:87582346,"{'lat': '44.177609', 'lon': '0.635013'}",Boé,admin:fr:47031,Boé,47550,47031
+stop_area:SNCF:87726471,"{'lat': '45.741386', 'lon': '4.005061'}",Boën,admin:fr:42019,Boën-sur-Lignon,42130,42019
+stop_area:SNCF:87172049,"{'lat': '49.858312', 'lon': '4.763232'}",Bogny-sur-Meuse,admin:fr:8081,Bogny-sur-Meuse,08120,8081
+stop_area:SNCF:87296269,"{'lat': '49.988491', 'lon': '3.443179'}",Bohain,admin:fr:2095,Bohain-en-Vermandois,02110,2095
+stop_area:SNCF:87684407,"{'lat': '48.342347', 'lon': '2.378905'}",Boigneville,admin:fr:91069,Boigneville,91720,91069
+stop_area:SNCF:87381079,"{'lat': '48.913535', 'lon': '2.272504'}",Bois-Colombes,admin:fr:92009,Bois-Colombes,92270,92009
+stop_area:SNCF:87721787,"{'lat': '45.906545', 'lon': '4.57513'}",Bois-d'Oingt - Légny,admin:fr:69111,Légny,69620,69111
+stop_area:SNCF:87682203,"{'lat': '48.475567', 'lon': '2.691606'}",Bois-le-Roi,admin:fr:77037,Bois-le-Roi,77590,77037
+stop_area:SNCF:87342071,"{'lat': '50.210441', 'lon': '2.771843'}",Boisleux,admin:fr:62151,Boisleux-au-Mont,62175,62151
+stop_area:SNCF:87543082,"{'lat': '48.256418', 'lon': '1.973296'}",Boisseaux,admin:fr:45037,Boisseaux,45480,45037
+stop_area:SNCF:87645184,"{'lat': '44.786038', 'lon': '2.249767'}",Boisset,admin:fr:15021,Boisset,15600,15021
+stop_area:SNCF:87682518,"{'lat': '48.529359', 'lon': '2.572925'}",Boissise-le-Roi,admin:fr:77040,Boissise-le-Roi,77310,77040
+stop_area:SNCF:87381152,"{'lat': '49.07598', 'lon': '2.02513'}",Boissy-l'Aillerie,admin:fr:95078,Boissy-l'Aillerie,95650,95078
+stop_area:SNCF:87758201,"{'lat': '48.753076', 'lon': '2.505344'}",Boissy-Saint-Léger,admin:fr:94004,Boissy-Saint-Léger,94470,94004
+stop_area:SNCF:87764357,"{'lat': '44.27154', 'lon': '4.708055'}",Bollène la Croisière,admin:fr:84019,Bollène,84500,84019
+stop_area:SNCF:87182709,"{'lat': '47.856969', 'lon': '7.26718'}",Bollwiller,admin:fr:68043,Bollwiller,68540,68043
+stop_area:SNCF:87142224,"{'lat': '48.198677', 'lon': '5.134467'}",Bologne,admin:fr:52058,Bologne,52310,52058
+stop_area:SNCF:87107425,"{'lat': '48.199737', 'lon': '5.141416'}",Bologne Mairie,admin:fr:52058,Bologne,52310,52058
+stop_area:SNCF:85001289,"{'lat': '47.49263', 'lon': '7.01656'}",Boncourt,admin:osm:relation:1685574,Boncourt,2926,
+stop_area:SNCF:87113407,"{'lat': '48.894423', 'lon': '2.479022'}",Bondy,admin:fr:93010,Bondy,93140,93010
+stop_area:SNCF:87478065,"{'lat': '48.476405', 'lon': '-1.765413'}",Bonnemain,admin:fr:35029,Bonnemain,35270,35029
+stop_area:SNCF:87545731,"{'lat': '48.186239', 'lon': '1.386298'}",Bonneval,admin:fr:28051,Bonneval,28800,28051
+stop_area:SNCF:87715193,"{'lat': '46.80852', 'lon': '6.184064'}",Bonnevaux,admin:fr:25075,Bonnevaux,25560,25075
+stop_area:SNCF:87746339,"{'lat': '46.077752', 'lon': '6.416493'}",Bonneville,admin:fr:74042,Bonneville,74130,74042
+stop_area:SNCF:87415893,"{'lat': '49.038654', 'lon': '1.58163'}",Bonnières,admin:fr:78089,Bonnières-sur-Seine,78270,78089
+stop_area:SNCF:87745596,"{'lat': '46.27011', 'lon': '6.36647'}",Bons-en-Chablais,admin:fr:74043,Bons-en-Chablais,74890,74043
+stop_area:SNCF:87726414,"{'lat': '45.522197', 'lon': '4.21625'}",Bonson,admin:fr:42022,Bonson,42160,42022
+stop_area:SNCF:87276444,"{'lat': '49.167135', 'lon': '2.362537'}",Boran-sur-Oise,admin:fr:60086,Boran-sur-Oise,60820,60086
+stop_area:SNCF:87581009,"{'lat': '44.825873', 'lon': '-0.556697'}",Bordeaux Saint-Jean,admin:fr:33063,Bordeaux,33000,33063
+stop_area:SNCF:87176115,"{'lat': '43.197961', 'lon': '0.222175'}",Bordes PN 147,admin:fr:65101,Bordes,65190,65101
+stop_area:SNCF:87491019,"{'lat': '45.894237', 'lon': '-0.798115'}",Bords,admin:fr:17053,Bords,17430,17053
+stop_area:SNCF:87734681,"{'lat': '45.099563', 'lon': '3.799295'}",Borne (Haute-Loire),admin:fr:43036,Borne,43350,43036
+stop_area:SNCF:87276717,"{'lat': '49.194683', 'lon': '2.207203'}",Bornel - Belle-Église,admin:fr:60088,Bornel,,60088
+stop_area:SNCF:87645705,"{'lat': '45.406435', 'lon': '2.502565'}",Bort-les-Orgues,admin:fr:19028,Bort-les-Orgues,19110,19028
+stop_area:SNCF:87534099,"{'lat': '45.399341', 'lon': '2.499293'}",Bort-les-Orgues Ville,admin:fr:19028,Bort-les-Orgues,19110,19028
+stop_area:SNCF:87705913,"{'lat': '49.359785', 'lon': '0.849187'}",Bosgouet Départementale 675,admin:fr:27091,Bosgouet,27310,27091
+stop_area:SNCF:87215756,"{'lat': '48.283628', 'lon': '4.601415'}",Bossancourt,admin:fr:10050,Bossancourt,10140,10050
+stop_area:SNCF:87481200,"{'lat': '47.138154', 'lon': '-1.681069'}",Bouaye,admin:fr:44018,Bouaye,44830,44018
+stop_area:SNCF:87673095,"{'lat': '43.523447', 'lon': '-1.490487'}",Boucau,admin:fr:64140,Boucau,64340,64140
+stop_area:SNCF:87345389,"{'lat': '50.278057', 'lon': '3.331639'}",Bouchain,admin:fr:59092,Bouchain,59111,59092
+stop_area:SNCF:87707067,"{'lat': '49.403257', 'lon': '1.716375'}",Bouchevilliers Centre,admin:fr:27098,Bouchevilliers,27150,27098
+stop_area:SNCF:87775346,"{'lat': '43.992694', 'lon': '4.187634'}",Boucoiran,admin:fr:30046,Boucoiran-et-Nozières,30190,30046
+stop_area:SNCF:87276485,"{'lat': '49.045154', 'lon': '2.322769'}",Bouffémont - Moisselles,admin:fr:95091,Bouffémont,95570,95091
+stop_area:SNCF:87382440,"{'lat': '48.854238', 'lon': '2.132286'}",Bougival,admin:fr:78126,La Celle-Saint-Cloud,78170,78126
+stop_area:SNCF:87117903,"{'lat': '48.19363', 'lon': '3.998637'}",Bouilly Mairie,admin:fr:10051,Bouilly,10320,10051
+stop_area:SNCF:87320721,"{'lat': '46.973679', 'lon': '-1.996121'}",Bouin,admin:fr:85029,Bouin,85230,85029
+stop_area:SNCF:87543181,"{'lat': '48.85645', 'lon': '2.275149'}",Boulainvilliers,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87725473,"{'lat': '45.172052', 'lon': '0.772787'}",Boulazac Isle Manoire,admin:fr:24053,Boulazac Isle Manoire,24330,24053
+stop_area:SNCF:87317586,"{'lat': '50.7157', 'lon': '1.60964'}",Boulogne,admin:fr:62160,Boulogne-sur-Mer,62200,62160
+stop_area:SNCF:87317016,"{'lat': '50.727281', 'lon': '1.609071'}",Boulogne - Tintelleries,admin:fr:62160,Boulogne-sur-Mer,62200,62160
+stop_area:SNCF:87757534,"{'lat': '43.416333', 'lon': '6.808259'}",Boulouris sur Mer,admin:fr:83118,Saint-Raphaël,83530;83700,83118
+stop_area:SNCF:87705897,"{'lat': '49.360812', 'lon': '0.781749'}",Bouquetot Village,admin:fr:27102,Bouquetot,27310,27102
+stop_area:SNCF:87545178,"{'lat': '48.533149', 'lon': '2.290596'}",Bouray,admin:fr:91330,Lardy,91510,91330
+stop_area:SNCF:87281279,"{'lat': '50.952321', 'lon': '2.19431'}",Bourbourg,admin:fr:59094,Bourbourg,59630,59094
+stop_area:SNCF:87705905,"{'lat': '49.354075', 'lon': '0.81201'}",Bourg-Achard Champ de Foire,admin:fr:27103,Bourg-Achard,27310,27103
+stop_area:SNCF:87214775,"{'lat': '48.359846', 'lon': '7.13731'}",Bourg-Bruche,admin:fr:67059,Bourg-Bruche,67420,67059
+stop_area:SNCF:87660886,"{'lat': '48.359044', 'lon': '7.13517'}",Bourg-Bruche Église,admin:fr:67059,Bourg-Bruche,67420,67059
+stop_area:SNCF:87743005,"{'lat': '46.200111', 'lon': '5.215011'}",Bourg-en-Bresse,admin:fr:1053,Bourg-en-Bresse,01000,1053
+stop_area:SNCF:87695999,"{'lat': '46.195328', 'lon': '5.226676'}",Bourg-en-Bresse Archives,admin:fr:1053,Bourg-en-Bresse,01000,1053
+stop_area:SNCF:87697672,"{'lat': '46.207629', 'lon': '5.21974'}",Bourg-en-Bresse Charité,admin:fr:1053,Bourg-en-Bresse,01000,1053
+stop_area:SNCF:87696013,"{'lat': '46.199498', 'lon': '5.215381'}",Bourg-en-Bresse Gare Routière,admin:fr:1053,Bourg-en-Bresse,01000,1053
+stop_area:SNCF:87758698,"{'lat': '48.780279', 'lon': '2.312462'}",Bourg-la-Reine,admin:fr:92014,Bourg-la-Reine,92340,92014
+stop_area:SNCF:87784876,"{'lat': '42.43237', 'lon': '1.948595'}",Bourg-Madame,admin:fr:66025,Bourg-Madame,66760,66025
+stop_area:SNCF:87741793,"{'lat': '45.619036', 'lon': '6.771273'}",Bourg-Saint-Maurice,admin:fr:73054,Bourg-Saint-Maurice,73700,73054
+stop_area:SNCF:87576207,"{'lat': '47.094129', 'lon': '2.394236'}",Bourges,admin:fr:18033,Bourges,18000,18033
+stop_area:SNCF:87465690,"{'lat': '47.067703', 'lon': '2.373229'}",Bourges Aéroport,admin:fr:18033,Bourges,18000,18033
+stop_area:SNCF:87454249,"{'lat': '47.082812', 'lon': '2.386895'}",Bourges Gare Routière,admin:fr:18033,Bourges,18000,18033
+stop_area:SNCF:87643734,"{'lat': '47.084793', 'lon': '2.390621'}",Bourges Place de la Nation,admin:fr:18033,Bourges,18000,18033
+stop_area:SNCF:87335810,"{'lat': '47.031497', 'lon': '-1.917385'}",Bourgneuf-en-Retz,admin:fr:44021,Villeneuve-en-Retz,44580,44021
+stop_area:SNCF:87481242,"{'lat': '47.046899', 'lon': '-1.955226'}",Bourgneuf-en-Retz,admin:fr:44021,Villeneuve-en-Retz,44580,44021
+stop_area:SNCF:87723429,"{'lat': '45.583982', 'lon': '5.273362'}",Bourgoin-Jallieu,admin:fr:38053,Bourgoin-Jallieu,38300,38053
+stop_area:SNCF:87415323,"{'lat': '49.317438', 'lon': '0.83832'}",Bourgtheroulde - Thuit-Hébert,admin:fr:27105,Grand-Bourgtheroulde,27520,27105
+stop_area:SNCF:87678037,"{'lat': '42.829776', 'lon': '0.337271'}",Bourisp,admin:fr:65106,Bourisp,65170,65106
+stop_area:SNCF:87486324,"{'lat': '46.651524', 'lon': '-1.178402'}",Bournezeau,admin:fr:85034,Bournezeau,85480,85034
+stop_area:SNCF:87462820,"{'lat': '43.947149', 'lon': '1.150775'}",Bourret,admin:fr:82023,Bourret,82700,82023
+stop_area:SNCF:87684118,"{'lat': '48.332747', 'lon': '2.692198'}",Bourron-Marlotte - Grez,admin:fr:77048,Bourron-Marlotte,77780,77048
+stop_area:SNCF:87481176,"{'lat': '47.050453', 'lon': '-1.182615'}",Boussay - La Bruffière,admin:fr:44022,Boussay,44190,44022
+stop_area:SNCF:87611095,"{'lat': '43.179617', 'lon': '0.972543'}",Boussens,admin:fr:31084,Boussens,31360,31084
+stop_area:SNCF:87591750,"{'lat': '48.681081', 'lon': '2.533597'}",Boussy St Antoine Noctilien,admin:fr:91514,Quincy-sous-Sénart,91480,91514
+stop_area:SNCF:87682138,"{'lat': '48.680893', 'lon': '2.532726'}",Boussy-Saint-Antoine,admin:fr:91097,Boussy-Saint-Antoine,91800,91097
+stop_area:SNCF:87984427,"{'lat': '48.690589', 'lon': '2.525643'}",Boussy-Saint-Antoine-Stade,admin:fr:91097,Boussy-Saint-Antoine,91800,91097
+stop_area:SNCF:87726216,"{'lat': '45.525002', 'lon': '4.278182'}",Bouthéon,admin:fr:42005,Andrézieux-Bouthéon,42160,42005
+stop_area:SNCF:87681478,"{'lat': '48.43495', 'lon': '2.37636'}",Boutigny,admin:fr:91099,Boutigny-sur-Essonne,91820,91099
+stop_area:SNCF:87659631,"{'lat': '46.857975', 'lon': '6.209625'}",Bouverans Halte Routière,admin:fr:25085,Bouverans,25560,25085
+stop_area:SNCF:87287235,"{'lat': '50.573831', 'lon': '3.202155'}",Bouvines,admin:fr:59168,Cysoing,59830,59168
+stop_area:SNCF:87642314,"{'lat': '48.827393', 'lon': '7.483024'}",Bouxwiller Centre,admin:fr:67061,Bouxwiller,67330,67061
+stop_area:SNCF:87702084,"{'lat': '48.828192', 'lon': '7.486641'}",Bouxwiller Clos Des Seigneurs,admin:fr:67061,Bouxwiller,67330,67061
+stop_area:SNCF:87642306,"{'lat': '48.826399', 'lon': '7.478946'}",Bouxwiller Lycée Schattenmann,admin:fr:67061,Bouxwiller,67330,67061
+stop_area:SNCF:87639997,"{'lat': '48.828721', 'lon': '7.481984'}",Bouxwiller Rue Babenhausen,admin:fr:67061,Bouxwiller,67330,67061
+stop_area:SNCF:87619924,"{'lat': '44.488755', 'lon': '1.621746'}",Bouzies Bas,admin:fr:46268,Saint-Géry-Vers,,46268
+stop_area:SNCF:87193177,"{'lat': '49.289974', 'lon': '6.529374'}",Bouzonville,admin:fr:57106,Bouzonville,57320,57106
+stop_area:SNCF:87406728,"{'lat': '49.289873', 'lon': '6.535495'}",Bouzonville Rue d'Alzing,admin:fr:57106,Bouzonville,57320,57106
+stop_area:SNCF:87313213,"{'lat': '49.846235', 'lon': '2.398116'}",Boves,admin:fr:80131,Boves,80440,80131
+stop_area:SNCF:87615054,"{'lat': '43.243815', 'lon': '2.119325'}",Bram,admin:fr:11049,Bram,11150,11049
+stop_area:SNCF:87476242,"{'lat': '47.782318', 'lon': '-3.19404'}",Brandérion,admin:fr:56021,Brandérion,56700,56021
+stop_area:SNCF:87734244,"{'lat': '45.414246', 'lon': '3.330167'}",Brassac-les-Mines - Sainte-Florine,admin:fr:63050,Brassac-les-Mines,63570,63050
+stop_area:SNCF:87395657,"{'lat': '45.413632', 'lon': '3.32142'}",Brassac-les-Mines Lycée Rabelais,admin:fr:63050,Brassac-les-Mines,63570,63050
+stop_area:SNCF:87611822,"{'lat': '43.614887', 'lon': '1.236922'}",Brax - Léguevin,admin:fr:31088,Brax,31490,31088
+stop_area:SNCF:87713644,"{'lat': '47.131491', 'lon': '5.21239'}",Brazey-en-Plaine,admin:fr:21103,Brazey-en-Plaine,21470,21103
+stop_area:SNCF:87413344,"{'lat': '49.603396', 'lon': '0.417489'}",Bréauté - Beuzeville,admin:fr:76141,Bréauté,76110,76141
+stop_area:SNCF:87345108,"{'lat': '50.33622', 'lon': '3.013861'}",Brebières Sud,admin:fr:62173,Brebières,62117,62173
+stop_area:SNCF:87756833,"{'lat': '43.944057', 'lon': '7.516446'}",Breil-sur-Roya,admin:fr:6023,Breil-sur-Roya,06540,6023
+stop_area:SNCF:87182659,"{'lat': '48.028533', 'lon': '7.104052'}",Breitenbach,admin:fr:68051,Breitenbach-Haut-Rhin,68380,68051
+stop_area:SNCF:87665562,"{'lat': '48.026744', 'lon': '7.098981'}",Breitenbach Restaurant Breit's bar,admin:fr:68051,Breitenbach-Haut-Rhin,68380,68051
+stop_area:SNCF:87473827,"{'lat': '48.669155', 'lon': '-3.196214'}",Brélidy - Plouec,admin:fr:22212,Plouëc-du-Trieux,22260,22212
+stop_area:SNCF:87487249,"{'lat': '46.838403', 'lon': '-0.49614'}",Bressuire,admin:fr:79049,Bressuire,79300,79049
+stop_area:SNCF:87474007,"{'lat': '48.38762', 'lon': '-4.480306'}",Brest,admin:fr:29019,Brest,29200,29019
+stop_area:SNCF:87582163,"{'lat': '43.847574', 'lon': '-0.459731'}",Bretagne-de-Marsan,admin:fr:40055,Bretagne-de-Marsan,40280,40055
+stop_area:SNCF:87471102,"{'lat': '48.140539', 'lon': '-1.897545'}",Breteil,admin:fr:35040,Breteil,35160,35040
+stop_area:SNCF:87594762,"{'lat': '44.927466', 'lon': '1.844383'}",Bretenoux - Biars,admin:fr:46029,Biars-sur-Cère,46130,46029
+stop_area:SNCF:87307975,"{'lat': '48.835294', 'lon': '0.915028'}",Breteuil Place Lafitte,admin:fr:27112,Breteuil,27160,27112
+stop_area:SNCF:87313247,"{'lat': '49.626419', 'lon': '2.38465'}",Breteuil-Embranchement,admin:fr:60039,Bacouël,60120,60039
+stop_area:SNCF:87545194,"{'lat': '48.606702', 'lon': '2.302333'}",Brétigny,admin:fr:91103,Brétigny-sur-Orge,91220,91103
+stop_area:SNCF:87712265,"{'lat': '47.389742', 'lon': '5.110074'}",Bretigny - Norges,admin:fr:21107,Bretigny,21490,21107
+stop_area:SNCF:87394270,"{'lat': '48.43273', 'lon': '0.89236'}",Bretoncelles,admin:fr:61061,Bretoncelles,61110,61061
+stop_area:SNCF:87444042,"{'lat': '49.203411', 'lon': '-0.51274'}",Bretteville - Norrey,admin:fr:14098,Thue et Mue,,14098
+stop_area:SNCF:87193169,"{'lat': '49.257999', 'lon': '6.563805'}",Brettnach Centre,admin:fr:57110,Brettnach,57320,57110
+stop_area:SNCF:87171322,"{'lat': '49.308414', 'lon': '3.766532'}",Breuil - Romain,admin:fr:51086,Breuil-sur-Vesle,51140,51086
+stop_area:SNCF:87545483,"{'lat': '48.577225', 'lon': '2.191772'}",Breuillet - Bruyères-le-Châtel,admin:fr:91105,Breuillet,91650,91105
+stop_area:SNCF:87545491,"{'lat': '48.564968', 'lon': '2.171437'}",Breuillet Village,admin:fr:91105,Breuillet,91650,91105
+stop_area:SNCF:87381624,"{'lat': '48.94336', 'lon': '1.54191'}",Bréval,admin:fr:78107,Bréval,78980,78107
+stop_area:SNCF:87763607,"{'lat': '44.889842', 'lon': '6.632966'}",Briançon,admin:fr:5023,Briançon,05100,5023
+stop_area:SNCF:87696088,"{'lat': '47.646363', 'lon': '2.733652'}",Briare,admin:fr:45053,Briare,45250,45053
+stop_area:SNCF:87443093,"{'lat': '43.752092', 'lon': '1.907853'}",Briatexte,admin:fr:81039,Briatexte,81390,81039
+stop_area:SNCF:87279877,"{'lat': '48.080849', 'lon': '4.977252'}",Bricon la Poste,admin:fr:52076,Bricon,52120,52076
+stop_area:SNCF:87280065,"{'lat': '47.033073', 'lon': '1.095583'}",Bridoré Carrefour 943,admin:fr:37039,Bridoré,37600,37039
+stop_area:SNCF:87644047,"{'lat': '47.026245', 'lon': '1.081901'}",Bridoré Saint Martin,admin:fr:37039,Bridoré,37600,37039
+stop_area:SNCF:87117994,"{'lat': '47.992025', 'lon': '3.617066'}",Brienon-sur-Armançon Mairie,admin:fr:89055,Brienon-sur-Armançon,89210,89055
+stop_area:SNCF:87592063,"{'lat': '45.863905', 'lon': '1.440351'}",Brignac,admin:fr:87129,Royères,87400,87129
+stop_area:SNCF:87722728,"{'lat': '45.673538', 'lon': '4.76352'}",Brignais,admin:fr:69027,Brignais,69530,69027
+stop_area:SNCF:87458992,"{'lat': '43.406269', 'lon': '6.061752'}",Brignoles,admin:fr:83023,Brignoles,83170,83023
+stop_area:SNCF:87747451,"{'lat': '45.262494', 'lon': '5.90145'}",Brignoud,admin:fr:38547,Villard-Bonnot,38190,38547
+stop_area:SNCF:87317180,"{'lat': '50.446752', 'lon': '1.833832'}",Brimeux,admin:fr:62177,Brimeux,62170,62177
+stop_area:SNCF:87677047,"{'lat': '46.908137', 'lon': '4.200381'}",Brion - Laisy Mairie,admin:fr:71251,Laizy,71190,71251
+stop_area:SNCF:87694596,"{'lat': '46.908582', 'lon': '4.207128'}",Brion - Laizy,admin:fr:71062,Brion,71190,71062
+stop_area:SNCF:87131961,"{'lat': '46.175774', 'lon': '5.558513'}",Brion - Montréal-la-Cluse Gare,admin:fr:1063,Brion,01460,1063
+stop_area:SNCF:87415364,"{'lat': '49.196422', 'lon': '0.7117830000000001'}",Brionne,admin:fr:27116,Brionne,27800,27116
+stop_area:SNCF:87734269,"{'lat': '45.300561', 'lon': '3.37856'}",Brioude,admin:fr:43040,Brioude,43100,43040
+stop_area:SNCF:87407569,"{'lat': '45.292201', 'lon': '3.382566'}",Brioude Lycée Lafayette,admin:fr:43040,Brioude,43100,43040
+stop_area:SNCF:87448084,"{'lat': '48.701862', 'lon': '-0.368204'}",Briouze,admin:fr:61063,Briouze,61220,61063
+stop_area:SNCF:87594002,"{'lat': '45.152601', 'lon': '1.528634'}",Brive-la-Gaillarde,admin:fr:19031,Brive-la-Gaillarde,19100,19031
+stop_area:SNCF:87473074,"{'lat': '48.333398', 'lon': '-2.235746'}",Broons,admin:fr:22020,Broons,22250,22020
+stop_area:SNCF:87394452,"{'lat': '48.215515', 'lon': '1.160424'}",Brou,admin:fr:28061,Brou,28160,28061
+stop_area:SNCF:87643981,"{'lat': '48.211802', 'lon': '1.166294'}",Brou Centre,admin:fr:28061,Brou,28160,28061
+stop_area:SNCF:87144782,"{'lat': '48.236815', 'lon': '6.731261'}",Brouvelieures,admin:fr:88076,Brouvelieures,88600,88076
+stop_area:SNCF:87405605,"{'lat': '48.239152', 'lon': '6.730928'}",Brouvelieures les Forges,admin:fr:88076,Brouvelieures,88600,88076
+stop_area:SNCF:87694166,"{'lat': '46.862105', 'lon': '4.296098'}",Broye,admin:fr:71482,Saint-Symphorien-de-Marmagne,71710,71482
+stop_area:SNCF:87453381,"{'lat': '46.768411', 'lon': '2.433195'}",Bruère Allichamps Mairie,admin:fr:18038,Bruère-Allichamps,18200,18038
+stop_area:SNCF:87581736,"{'lat': '44.887012', 'lon': '-0.609445'}",Bruges,admin:fr:33075,Bruges,33520,33075
+stop_area:SNCF:87192260,"{'lat': '48.9695', 'lon': '6.549028'}",Brulange Rue de Metz,admin:fr:57115,Brulange,57340,57115
+stop_area:SNCF:87212134,"{'lat': '48.733077', 'lon': '7.700421'}",Brumath,admin:fr:67067,Brumath,67170,67067
+stop_area:SNCF:87654673,"{'lat': '48.730876', 'lon': '7.708523'}",Brumath Mairie,admin:fr:67067,Brumath,67170,67067
+stop_area:SNCF:87345439,"{'lat': '50.278259', 'lon': '3.145904'}",Brunémont,admin:fr:59115,Brunémont,59151,59115
+stop_area:SNCF:87682120,"{'lat': '48.699087', 'lon': '2.506522'}",Brunoy,admin:fr:91114,Brunoy,91800,91114
+stop_area:SNCF:87976902,"{'lat': '48.699104', 'lon': '2.506444'}",Brunoy-Wittlich,admin:fr:91114,Brunoy,91800,91114
+stop_area:SNCF:88140010,"{'lat': '50.836', 'lon': '4.336'}",Bruxelles Midi,admin:osm:relation:58248,Saint-Gilles - Sint-Gillis,1060,
+stop_area:SNCF:87144154,"{'lat': '48.205021', 'lon': '6.718908'}",Bruyères,admin:fr:88078,Bruyères,88600,88078
+stop_area:SNCF:87405613,"{'lat': '48.209201', 'lon': '6.721994'}",Bruyères Rue du Cameroun,admin:fr:88078,Bruyères,88600,88078
+stop_area:SNCF:87276451,"{'lat': '49.15521', 'lon': '2.325964'}",Bruyères-sur-Oise,admin:fr:95116,Bruyères-sur-Oise,95820,95116
+stop_area:SNCF:87471037,"{'lat': '48.02858', 'lon': '-1.751587'}",Bruz,admin:fr:35047,Bruz,35170,35047
+stop_area:SNCF:87758326,"{'lat': '48.844328', 'lon': '2.526298'}",Bry-sur-Marne,admin:fr:94015,Bry-sur-Marne,94360,94015
+stop_area:SNCF:87407247,"{'lat': '49.276705', 'lon': '6.344782'}",Budange Rue D'Aboncourt,admin:fr:57331,Hombourg-Budange,57920,57331
+stop_area:SNCF:87387092,"{'lat': '48.925365', 'lon': '1.443436'}",Bueil,admin:fr:27119,Bueil,27730,27119
+stop_area:SNCF:87592162,"{'lat': '45.600597', 'lon': '1.924815'}",Bugeat,admin:fr:19033,Bugeat,19170,19033
+stop_area:SNCF:87316067,"{'lat': '49.964797', 'lon': '2.598202'}",Buire-sur-l'Ancre,admin:fr:80151,Buire-sur-l'Ancre,80300,80151
+stop_area:SNCF:85001446,"{'lat': '47.47933', 'lon': '7.02998'}",Buix,admin:osm:relation:1685570,Basse-Allaine,,
+stop_area:SNCF:87141739,"{'lat': '48.576446', 'lon': '5.85136'}",Bulligny Centre,admin:fr:54105,Bulligny,54113,54105
+stop_area:SNCF:87342105,"{'lat': '50.448419', 'lon': '2.733155'}",Bully - Grenay,admin:fr:62186,Bully-les-Mines,62160,62186
+stop_area:SNCF:87681510,"{'lat': '48.370349', 'lon': '2.38663'}",Buno - Gironville,admin:fr:91121,Buno-Bonnevaux,91720,91121
+stop_area:SNCF:87419135,"{'lat': '49.781683', 'lon': '1.347249'}",Bures-en-Bray Carrefour,admin:fr:76148,Bures-en-Bray,76660,76148
+stop_area:SNCF:87758854,"{'lat': '48.695675', 'lon': '2.163124'}",Bures-sur-Yvette,admin:fr:91122,Bures-sur-Yvette,91440,91122
+stop_area:SNCF:87641944,"{'lat': '47.742235', 'lon': '7.134459'}",Burnhaupt-le-Haut Café de la Gare,admin:fr:68060,Burnhaupt-le-Haut,68520,68060
+stop_area:SNCF:87641936,"{'lat': '47.73999', 'lon': '7.143132'}",Burnhaupt-le-Haut Gendarmerie,admin:fr:68060,Burnhaupt-le-Haut,68520,68060
+stop_area:SNCF:87296244,"{'lat': '50.039485', 'lon': '3.446301'}",Busigny,admin:fr:59118,Busigny,59137,59118
+stop_area:SNCF:87491191,"{'lat': '45.212034', 'lon': '-0.368249'}",Bussac,admin:fr:17074,Bussac-Forêt,17210,17074
+stop_area:SNCF:87405878,"{'lat': '47.884167', 'lon': '6.854722'}",Bussang,admin:fr:88081,Bussang,88540,88081
+stop_area:SNCF:87597708,"{'lat': '46.122771', 'lon': '2.023156'}",Busseau sur Creuse,admin:fr:23001,Ahun,23150,23001
+stop_area:SNCF:87592741,"{'lat': '45.607611', 'lon': '1.026176'}",Bussière-Galant,admin:fr:87027,Bussière-Galant,87230,87027
+stop_area:SNCF:87754986,"{'lat': '48.836758', 'lon': '2.709774'}",Bussy-Saint-Georges RER A,admin:fr:77058,Bussy-Saint-Georges,77600,77058
+stop_area:SNCF:87936989,"{'lat': '48.819704', 'lon': '7.559656'}",Buswiller-Eglise,admin:fr:67068,Buswiller,67350,67068
+stop_area:SNCF:87659656,"{'lat': '46.869346', 'lon': '5.71656'}",Buvilly Halte Routière,admin:fr:39081,Buvilly,39800,39081
+stop_area:SNCF:87215228,"{'lat': '48.10502', 'lon': '5.036971'}",Buxières-lès-Villiers,admin:fr:52087,Buxières-lès-Villiers,52000,52087
+stop_area:SNCF:87597377,"{'lat': '46.885237', 'lon': '1.418776'}",Buzançais,admin:fr:36031,Buzançais,36500,36031
+stop_area:SNCF:87644062,"{'lat': '46.887548', 'lon': '1.430433'}",Buzançais Sapin Vert,admin:fr:36031,Buzançais,36500,36031
+stop_area:SNCF:87672634,"{'lat': '43.148078', 'lon': '-0.455775'}",Buzy en Béarn,admin:fr:64157,Buzy,64260,64157
+stop_area:SNCF:87458810,"{'lat': '49.171077', 'lon': '5.709978'}",Buzy-Darmont,admin:fr:55094,Buzy-Darmont,55400,55094
+stop_area:SNCF:87718122,"{'lat': '47.118586', 'lon': '5.85218'}",Byans,admin:fr:25105,Byans-sur-Doubs,25320,25105
+stop_area:SNCF:87582684,"{'lat': '44.752154', 'lon': '-0.537706'}",Cadaujac,admin:fr:33080,Cadaujac,33140,33080
+stop_area:SNCF:87677989,"{'lat': '42.890177', 'lon': '0.349029'}",Cadéac les Bains,admin:fr:65116,Cadéac,65240,65116
+stop_area:SNCF:87442285,"{'lat': '43.56961', 'lon': '1.883565'}",Cadix - Cuq-Toulzat,admin:fr:81076,Cuq-Toulza,81470,81076
+stop_area:SNCF:87619957,"{'lat': '44.491883', 'lon': '1.879735'}",Cadrieu,admin:fr:46041,Cadrieu,46160,46041
+stop_area:SNCF:87444000,"{'lat': '49.176354', 'lon': '-0.347613'}",Caen,admin:fr:14118,Caen,14000,14118
+stop_area:SNCF:87317321,"{'lat': '50.850068', 'lon': '1.812034'}",Caffiers,admin:fr:62191,Caffiers,62132,62191
+stop_area:SNCF:87756320,"{'lat': '43.657687', 'lon': '7.148122'}",Cagnes-sur-Mer,admin:fr:6027,Cagnes-sur-Mer,06800,6027
+stop_area:SNCF:87613000,"{'lat': '44.449275', 'lon': '1.433325'}",Cahors,admin:fr:46042,Cahors,46000,46042
+stop_area:SNCF:87442699,"{'lat': '44.452347', 'lon': '1.439917'}",Cahors Charles De Gaulle,admin:fr:46042,Cahors,46000,46042
+stop_area:SNCF:87462127,"{'lat': '44.466055', 'lon': '1.428072'}",Cahors Regourd,admin:fr:46042,Cahors,46000,46042
+stop_area:SNCF:87671099,"{'lat': '43.639167', 'lon': '-0.022778'}",Cahuzac-sur-Adour,admin:fr:32070,Cahuzac-sur-Adour,32400,32070
+stop_area:SNCF:87619965,"{'lat': '44.504587', 'lon': '1.900542'}",Caillac,admin:fr:46198,Montbrun,46160,46198
+stop_area:SNCF:87281071,"{'lat': '50.901441', 'lon': '1.811205'}",Calais - Fréthun,admin:fr:62360,Fréthun,62185,62360
+stop_area:SNCF:87317263,"{'lat': '50.953395', 'lon': '1.850821'}",Calais Ville,admin:fr:62193,Calais,62100,62193
+stop_area:SNCF:87473546,"{'lat': '48.406375', 'lon': '-3.41985'}",Callac,admin:fr:22025,Callac,22160,22025
+stop_area:SNCF:87342543,"{'lat': '50.482774', 'lon': '2.481102'}",Calonne-Ricouart,admin:fr:62194,Calonne-Ricouart,62470,62194
+stop_area:SNCF:87673657,"{'lat': '43.365431', 'lon': '-1.396812'}",Cambo-les-Bains,admin:fr:64160,Cambo-les-Bains,64250,64160
+stop_area:SNCF:87442277,"{'lat': '43.575825', 'lon': '1.859597'}",Cambon-les-Lavaur,admin:fr:81050,Cambon-lès-Lavaur,81470,81050
+stop_area:SNCF:87345520,"{'lat': '50.176544', 'lon': '3.241112'}",Cambrai,admin:fr:59122,Cambrai,59400,59122
+stop_area:SNCF:87783340,"{'lat': '44.421956', 'lon': '3.066401'}",Campagnac - Saint-Geniez,admin:fr:12047,Campagnac,12560,12047
+stop_area:SNCF:87640706,"{'lat': '42.916866', 'lon': '2.20542'}",Campagne-sur-Aude Le Vieux Pont,admin:fr:11063,Campagne-sur-Aude,11260,11063
+stop_area:SNCF:87678052,"{'lat': '43.017658', 'lon': '0.176827'}",Campan,admin:fr:65123,Campan,65710,65123
+stop_area:SNCF:87151167,"{'lat': '47.56041', 'lon': '-1.035684'}",Candé,admin:fr:49054,Candé,49440,49054
+stop_area:SNCF:87757625,"{'lat': '43.553908', 'lon': '7.019711'}",Cannes,admin:fr:6029,Cannes,06150;06400,6029
+stop_area:SNCF:87757617,"{'lat': '43.548871', 'lon': '6.986661'}",Cannes La Bocca,admin:fr:6029,Cannes,06150;06400,6029
+stop_area:SNCF:87345413,"{'lat': '50.312515', 'lon': '3.121928'}",Cantin,admin:fr:59126,Cantin,59169,59126
+stop_area:SNCF:87005397,"{'lat': '49.788629', 'lon': '0.637805'}",Cany-Barville,admin:fr:76159,Cany-Barville,76450,76159
+stop_area:SNCF:87756395,"{'lat': '43.7206', 'lon': '7.394384'}",Cap-d'Ail,admin:fr:6032,Cap-d'Ail,06320,6032
+stop_area:SNCF:87613109,"{'lat': '44.578246', 'lon': '2.077963'}",Capdenac,admin:fr:12052,Capdenac-Gare,12700,12052
+stop_area:SNCF:87613018,"{'lat': '43.337406', 'lon': '1.259858'}",Capens,admin:fr:31104,Capens,31410,31104
+stop_area:SNCF:87439943,"{'lat': '43.342797', 'lon': '1.254037'}",Capens la Girouette,admin:fr:31104,Capens,31410,31104
+stop_area:SNCF:87671156,"{'lat': '43.103345', 'lon': '0.329639'}",Capvern,admin:fr:65127,Capvern,65130,65127
+stop_area:SNCF:87439976,"{'lat': '43.102252', 'lon': '0.315798'}",Capvern Mairie,admin:fr:65127,Capvern,65130,65127
+stop_area:SNCF:87611061,"{'lat': '43.298219', 'lon': '1.212514'}",Carbonne,admin:fr:31107,Carbonne,31390,31107
+stop_area:SNCF:87615286,"{'lat': '43.218029', 'lon': '2.351824'}",Carcassonne,admin:fr:11069,Carcassonne,11000,11069
+stop_area:SNCF:87447243,"{'lat': '49.302482', 'lon': '-1.244938'}",Carentan,admin:fr:50099,Carentan-les-Marais,,50099
+stop_area:SNCF:87473504,"{'lat': '48.278002', 'lon': '-3.562217'}",Carhaix,admin:fr:29024,Carhaix-Plouguer,29270,29024
+stop_area:SNCF:87172353,"{'lat': '49.628546', 'lon': '5.168515'}",Carignan,admin:fr:8090,Carignan,08110,8090
+stop_area:SNCF:87112326,"{'lat': '49.635852', 'lon': '5.160581'}",Carignan Rue de la Paix,admin:fr:8090,Carignan,08110,8090
+stop_area:SNCF:87615625,"{'lat': '44.048782', 'lon': '2.152401'}",Carmaux,admin:fr:81060,Carmaux,81400,81060
+stop_area:SNCF:87289678,"{'lat': '47.573627', 'lon': '-3.072194'}",Carnac,admin:fr:56034,Carnac,56340,56034
+stop_area:SNCF:87473561,"{'lat': '48.340614', 'lon': '-3.490667'}",Carnoët - Locarn,admin:fr:22128,Locarn,22340,22128
+stop_area:SNCF:87756478,"{'lat': '43.76204', 'lon': '7.481427'}",Carnoles,admin:fr:6104,Roquebrune-Cap-Martin,06190,6104
+stop_area:SNCF:87755371,"{'lat': '43.297513', 'lon': '6.186191'}",Carnoules,admin:fr:83033,Carnoules,83660,83033
+stop_area:SNCF:87765735,"{'lat': '44.048484', 'lon': '5.044439'}",Carpentras,admin:fr:84031,Carpentras,84200,84031
+stop_area:SNCF:87987008,"{'lat': '48.9536', 'lon': '2.307569'}",Carrefour-18-Juin-40,admin:fr:93031,Épinay-sur-Seine,93800,93031
+stop_area:SNCF:87561951,"{'lat': '48.941192', 'lon': '2.032524'}",Carrières-sous-Poissy Noctilien,admin:fr:78123,Carrières-sous-Poissy,78955,78123
+stop_area:SNCF:87733923,"{'lat': '43.3309', 'lon': '5.1529'}",Carry le Rouet-Port,admin:fr:13021,Carry-le-Rouet,13620,13021
+stop_area:SNCF:87753566,"{'lat': '43.336615', 'lon': '5.153658'}",Carry-le-Rouet,admin:fr:13021,Carry-le-Rouet,13620,13021
+stop_area:SNCF:87208553,"{'lat': '45.787899', 'lon': '4.730912'}",Casino Lacroix Laval,admin:fr:69250,La Tour-de-Salvagny,69890,69250
+stop_area:SNCF:87281139,"{'lat': '50.787592', 'lon': '2.459972'}",Cassel,admin:fr:59054,Bavinchove,59670,59054
+stop_area:SNCF:87751776,"{'lat': '43.234079', 'lon': '5.553138'}",Cassis,admin:fr:13022,Cassis,13260,13022
+stop_area:SNCF:87618835,"{'lat': '43.055303', 'lon': '0.979165'}",Castagnède,admin:fr:31112,Castagnède,31260,31112
+stop_area:SNCF:87611665,"{'lat': '43.786195', 'lon': '1.341821'}",Castelnau-d'Estrétefonds,admin:fr:31118,Castelnau-d'Estrétefonds,31620,31118
+stop_area:SNCF:87671081,"{'lat': '43.597227', 'lon': '-0.018497'}",Castelnau-Rivière-Basse,admin:fr:65130,Castelnau-Rivière-Basse,65700,65130
+stop_area:SNCF:87615039,"{'lat': '43.312292', 'lon': '1.95039'}",Castelnaudary,admin:fr:11076,Castelnaudary,11400,11076
+stop_area:SNCF:87611897,"{'lat': '44.040226', 'lon': '1.114155'}",Castelsarrasin,admin:fr:82033,Castelsarrasin,82100,82033
+stop_area:SNCF:87584136,"{'lat': '44.856999', 'lon': '-0.04066'}",Castillon,admin:fr:33108,Castillon-la-Bataille,33350,33108
+stop_area:SNCF:87615468,"{'lat': '43.599134', 'lon': '2.231072'}",Castres,admin:fr:81065,Castres,81100,81065
+stop_area:SNCF:87441782,"{'lat': '43.603908', 'lon': '2.247289'}",Castres Gare Routière,admin:fr:81065,Castres,81100,81065
+stop_area:SNCF:87345587,"{'lat': '50.12812', 'lon': '3.333787'}",Cattenières,admin:fr:59138,Cattenières,59217,59138
+stop_area:SNCF:87581538,"{'lat': '44.842622', 'lon': '-0.627745'}",Caudéran-Mérignac,admin:fr:33063,Bordeaux,33000,33063
+stop_area:SNCF:87582841,"{'lat': '44.58014', 'lon': '-0.145161'}",Caudrot,admin:fr:33111,Caudrot,33490,33111
+stop_area:SNCF:87345561,"{'lat': '50.111444', 'lon': '3.409769'}",Caudry,admin:fr:59139,Caudry,59540,59139
+stop_area:SNCF:87473066,"{'lat': '48.284426', 'lon': '-2.155593'}",Caulnes,admin:fr:22032,Caulnes,22350,22032
+stop_area:SNCF:87618868,"{'lat': '43.029537', 'lon': '1.085132'}",Caumont,admin:fr:9086,Caumont,09160,9086
+stop_area:SNCF:87613356,"{'lat': '44.162244', 'lon': '1.533667'}",Caussade,admin:fr:82037,Caussade,82300,82037
+stop_area:SNCF:87671669,"{'lat': '43.515763', 'lon': '-0.008894000000000001'}",Caussade-Rivière,admin:fr:65137,Caussade-Rivière,65700,65137
+stop_area:SNCF:87440107,"{'lat': '44.539829', 'lon': '2.025602'}",Causse-et-Diège Loupiac,admin:fr:12257,Causse-et-Diège,12700,12257
+stop_area:SNCF:87620153,"{'lat': '42.89173', 'lon': '-0.114335'}",Cauterets,admin:fr:65138,Cauterets,65110,65138
+stop_area:SNCF:87705855,"{'lat': '49.355867', 'lon': '0.648078'}",Cauverville-en-Roumois D675,admin:fr:27134,Cauverville-en-Roumois,27350,27134
+stop_area:SNCF:87765503,"{'lat': '43.834703', 'lon': '5.043714'}",Cavaillon,admin:fr:84035,Cavaillon,84300,84035
+stop_area:SNCF:87491217,"{'lat': '45.105163', 'lon': '-0.382243'}",Cavignac,admin:fr:33114,Cavignac,33620,33114
+stop_area:SNCF:87442426,"{'lat': '44.236702', 'lon': '1.772739'}",Caylus,admin:fr:82038,Caylus,82160,82038
+stop_area:SNCF:87450767,"{'lat': '43.874076', 'lon': '2.663318'}",Cayzac,admin:fr:12069,Combret,12370,12069
+stop_area:SNCF:87170761,"{'lat': '42.868974', 'lon': '0.6080719999999999'}",Cazaux-Layrisse,admin:fr:31132,Cazaux-Layrisse,31440,31132
+stop_area:SNCF:87611079,"{'lat': '43.212834', 'lon': '1.083106'}",Cazères,admin:fr:31135,Cazères,31220,31135
+stop_area:SNCF:87671032,"{'lat': '43.760556', 'lon': '-0.316667'}",Cazères-sur-l'Adour,admin:fr:40080,Cazères-sur-l'Adour,40270,40080
+stop_area:SNCF:87731786,"{'lat': '45.178023', 'lon': '3.731663'}",Céaux-d'Allègre,admin:fr:43043,Céaux-d'Allègre,43270,43043
+stop_area:SNCF:87447565,"{'lat': '43.4024', 'lon': '2.9756'}",Cébazan,admin:fr:34070,Cébazan,34360,34070
+stop_area:SNCF:87781542,"{'lat': '43.812151', 'lon': '3.155302'}",Ceilhes - Roqueredonde,admin:fr:34233,Roqueredonde,34650,34233
+stop_area:SNCF:87717090,"{'lat': '48.524463', 'lon': '6.163995'}",Ceintrey Eglise,admin:fr:54109,Ceintrey,54134,54109
+stop_area:SNCF:87701102,"{'lat': '48.52429', 'lon': '6.160471'}",Ceintrey Groupe Scolaire,admin:fr:54109,Ceintrey,54134,54109
+stop_area:SNCF:87731604,"{'lat': '45.866782', 'lon': '3.644889'}",Celles-sur-Durolle Arrêt des Cars,admin:fr:63066,Celles-sur-Durolle,63250,63066
+stop_area:SNCF:87581595,"{'lat': '44.856347', 'lon': '-0.533649'}",Cenon,admin:fr:33119,Cenon,33150,33119
+stop_area:SNCF:87358085,"{'lat': '47.830013', 'lon': '0.09388299999999999'}",Cérans-Foulletourte Croissant,admin:fr:72051,Cérans-Foulletourte,72330,72051
+stop_area:SNCF:87462937,"{'lat': '47.82765', 'lon': '0.07579'}",Cérans-Foulletourte Église,admin:fr:72051,Cérans-Foulletourte,72330,72051
+stop_area:SNCF:87785006,"{'lat': '42.441773', 'lon': '3.163403'}",Cerbère,admin:fr:66048,Cerbère,66290,66048
+stop_area:SNCF:87543033,"{'lat': '47.986155', 'lon': '1.884981'}",Cercottes,admin:fr:45062,Cercottes,45520,45062
+stop_area:SNCF:87696492,"{'lat': '46.85793', 'lon': '3.645085'}",Cercy-la-Tour,admin:fr:58046,Cercy-la-Tour,58340,58046
+stop_area:SNCF:87382655,"{'lat': '49.048493', 'lon': '2.011872'}",Cergy le Haut,admin:fr:95127,Cergy,95000;95800,95127
+stop_area:SNCF:87381905,"{'lat': '49.03639', 'lon': '2.07982'}",Cergy Préfecture,admin:fr:95127,Cergy,95000;95800,95127
+stop_area:SNCF:87382499,"{'lat': '49.049691', 'lon': '2.034437'}",Cergy Saint-Christophe,admin:fr:95127,Cergy,95000;95800,95127
+stop_area:SNCF:87487280,"{'lat': '46.817551', 'lon': '-0.667313'}",Cerizay,admin:fr:79062,Cerizay,79140,79062
+stop_area:SNCF:87182410,"{'lat': '47.802', 'lon': '7.1737'}",Cernay,admin:fr:68063,Cernay,68700,68063
+stop_area:SNCF:87276063,"{'lat': '48.985405', 'lon': '2.256768'}",Cernay,admin:fr:95219,Ermont,95120,95219
+stop_area:SNCF:87659987,"{'lat': '47.809321', 'lon': '7.174788'}",Cernay Église,admin:fr:68063,Cernay,68700,68063
+stop_area:SNCF:87641688,"{'lat': '47.803347', 'lon': '7.182794'}",Cernay Lycée,admin:fr:68063,Cernay,68700,68063
+stop_area:SNCF:87641696,"{'lat': '47.791124', 'lon': '7.155849'}",Cernay Saint-André,admin:fr:68063,Cernay,68700,68063
+stop_area:SNCF:87582742,"{'lat': '44.632346', 'lon': '-0.340526'}",Cérons,admin:fr:33120,Cérons,33720,33120
+stop_area:SNCF:87723452,"{'lat': '45.56116', 'lon': '5.376118'}",Cessieu,admin:fr:38064,Cessieu,38110,38064
+stop_area:SNCF:87682161,"{'lat': '48.565671', 'lon': '2.593779'}",Cesson,admin:fr:77067,Cesson,77240,77067
+stop_area:SNCF:87334490,"{'lat': '48.11281', 'lon': '-1.60211'}",Cesson-Sévigné,admin:fr:35051,Cesson-Sévigné,35510,35051
+stop_area:SNCF:87741686,"{'lat': '45.595002', 'lon': '6.446614'}",Cévins-échangeur,admin:fr:73063,Cevins,73730,73063
+stop_area:SNCF:87743302,"{'lat': '46.183333', 'lon': '5.325636'}",Ceyzériat,admin:fr:1072,Ceyzériat,01250,1072
+stop_area:SNCF:87696054,"{'lat': '46.178929', 'lon': '5.322512'}",Ceyzeriat-Mairie,admin:fr:1072,Ceyzériat,01250,1072
+stop_area:SNCF:87597112,"{'lat': '46.626526', 'lon': '1.507677'}",Chabenet,admin:fr:36161,Le Pont-Chrétien-Chabenet,36800,36161
+stop_area:SNCF:87747212,"{'lat': '45.438407', 'lon': '5.428099'}",Châbons,admin:fr:38065,Châbons,38690,38065
+stop_area:SNCF:87734491,"{'lat': '45.879388', 'lon': '3.694762'}",Chabreloche Pont Bascule,admin:fr:63072,Chabreloche,63250,63072
+stop_area:SNCF:87576223,"{'lat': '47.25512', 'lon': '1.646217'}",Chabris,admin:fr:36034,Chabris,36210,36034
+stop_area:SNCF:87713578,"{'lat': '46.907424', 'lon': '4.749613'}",Chagny,admin:fr:71073,Chagny,71150,71073
+stop_area:SNCF:87116343,"{'lat': '48.815957', 'lon': '3.151153'}",Chailly - Boissy-le-Châtel,admin:fr:77042,Boissy-le-Châtel,77169,77042
+stop_area:SNCF:87574111,"{'lat': '47.877178', 'lon': '1.782365'}",Chaingy Fourneaux Plage,admin:fr:45067,Chaingy,45380,45067
+stop_area:SNCF:87583690,"{'lat': '45.270875', 'lon': '0.043448'}",Chalais,admin:fr:16073,Chalais,16210,16073
+stop_area:SNCF:87481390,"{'lat': '46.844036', 'lon': '-1.871847'}",Challans,admin:fr:85047,Challans,85300,85047
+stop_area:SNCF:87725002,"{'lat': '46.781622', 'lon': '4.843479'}",Chalon-sur-Saône,admin:fr:71076,Chalon-sur-Saône,71100,71076
+stop_area:SNCF:87484204,"{'lat': '47.343001', 'lon': '-0.743801'}",Chalonnes,admin:fr:49063,Chalonnes-sur-Loire,49290,49063
+stop_area:SNCF:87174003,"{'lat': '48.955252', 'lon': '4.348656'}",Châlons-en-Champagne,admin:fr:51108,Châlons-en-Champagne,51000,51108
+stop_area:SNCF:87734731,"{'lat': '45.20591', 'lon': '3.991894'}",Chamalières-sur-Loire,admin:fr:43049,Chamalières-sur-Loire,43800,43049
+stop_area:SNCF:87545152,"{'lat': '48.514244', 'lon': '2.215854'}",Chamarande,admin:fr:91132,Chamarande,91730,91132
+stop_area:SNCF:87741009,"{'lat': '45.571302', 'lon': '5.919547'}",Chambéry - Challes-les-Eaux,admin:fr:73065,Chambéry,73000,73065
+stop_area:SNCF:87698423,"{'lat': '45.55779', 'lon': '5.91021'}",Chambery-Jacob-Bellecombette,admin:fr:73137,Jacob-Bellecombette,73000,73137
+stop_area:SNCF:85010207,"{'lat': '46.242378', 'lon': '6.147342'}",Chambésy,admin:osm:relation:1685524,Pregny-Chambésy,,
+stop_area:SNCF:87276725,"{'lat': '49.163663', 'lon': '2.240674'}",Chambly,admin:fr:60139,Chambly,60230,60139
+stop_area:SNCF:87775221,"{'lat': '44.300243', 'lon': '3.979333'}",Chamborigaud,admin:fr:30080,Chamborigaud,30530,30080
+stop_area:SNCF:87721845,"{'lat': '46.018641', 'lon': '4.499074'}",Chambost-Allières,admin:fr:69037,Chambost-Allières,69870,69037
+stop_area:SNCF:87571463,"{'lat': '47.182215', 'lon': '0.9649489999999999'}",Chambourg,admin:fr:37049,Chambourg-sur-Indre,37310,37049
+stop_area:SNCF:87337543,"{'lat': '47.183759', 'lon': '0.96434'}",Chambourg-sur-Indre Chopin,admin:fr:37049,Chambourg-sur-Indre,37310,37049
+stop_area:SNCF:87699298,"{'lat': '47.343108', 'lon': '0.717502'}",Chambray Bois-Cormier,admin:fr:37050,Chambray-lès-Tours,37170,37050
+stop_area:SNCF:87205575,"{'lat': '47.347866', 'lon': '0.71027'}",Chambray CHR Trousseau,admin:fr:37050,Chambray-lès-Tours,37170,37050
+stop_area:SNCF:87688978,"{'lat': '47.338928', 'lon': '0.7286010000000001'}",Chambray Lycée-Agricole,admin:fr:37050,Chambray-lès-Tours,37170,37050
+stop_area:SNCF:87644070,"{'lat': '47.34807', 'lon': '0.712588'}",Chambray Trousseau,admin:fr:37208,Saint-Avertin,37550,37208
+stop_area:SNCF:87721829,"{'lat': '45.981667', 'lon': '4.507125'}",Chamelet,admin:fr:69039,Chamelet,69620,69039
+stop_area:SNCF:87666099,"{'lat': '45.982752', 'lon': '4.508834'}",Chamelet Centre,admin:fr:69039,Chamelet,69620,69039
+stop_area:SNCF:87462085,"{'lat': '45.91999', 'lon': '6.866895'}",Chamonix Aiguille du Midi,admin:fr:74056,Chamonix-Mont-Blanc,74400,74056
+stop_area:SNCF:87746784,"{'lat': '45.92277', 'lon': '6.87363'}",Chamonix-Mont-Blanc,admin:fr:74056,Chamonix-Mont-Blanc,74400,74056
+stop_area:SNCF:87741231,"{'lat': '45.557574', 'lon': '6.206743'}",Chamousset,admin:fr:73068,Chamousset,73390,73068
+stop_area:SNCF:87117911,"{'lat': '48.117204', 'lon': '3.973062'}",Chamoy-Carrefour D1/D23,admin:fr:10074,Chamoy,10130,10074
+stop_area:SNCF:87276030,"{'lat': '48.97978', 'lon': '2.29183'}",Champ de Courses d'Enghien,admin:fr:95598,Soisy-sous-Montmorency,95230,95598
+stop_area:SNCF:87393058,"{'lat': '48.855113', 'lon': '2.289214'}",Champ de Mars Tour Eiffel,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87396275,"{'lat': '48.019748', 'lon': '0.335665'}",Champagné,admin:fr:72054,Champagné,72470,72054
+stop_area:SNCF:87171926,"{'lat': '49.214769', 'lon': '3.994523'}",Champagne-Ardenne TGV,admin:fr:51058,Bezannes,51430,51058
+stop_area:SNCF:87276519,"{'lat': '49.13573', 'lon': '2.24156'}",Champagne-sur-Oise,admin:fr:95134,Champagne-sur-Oise,95660,95134
+stop_area:SNCF:87682450,"{'lat': '48.406582', 'lon': '2.79921'}",Champagne-sur-Seine,admin:fr:77079,Champagne-sur-Seine,77430,77079
+stop_area:SNCF:87185348,"{'lat': '47.703031', 'lon': '6.701165'}",Champagney,admin:fr:70120,Champagney,70290,70120
+stop_area:SNCF:87715326,"{'lat': '46.749315', 'lon': '5.910049'}",Champagnole,admin:fr:39097,Champagnole,39300,39097
+stop_area:SNCF:87352047,"{'lat': '46.74255', 'lon': '5.919794'}",Champagnole Paul-Émile Victor,admin:fr:39097,Champagnole,39300,39097
+stop_area:SNCF:87115873,"{'lat': '48.545567', 'lon': '3.287434'}",Champbenoist Poigny,admin:fr:77368,Poigny,77160,77368
+stop_area:SNCF:87141085,"{'lat': '48.735025', 'lon': '6.168952'}",Champigneulles,admin:fr:54115,Champigneulles,54250,54115
+stop_area:SNCF:87683128,"{'lat': '48.323742', 'lon': '3.130572'}",Champigny,admin:fr:89074,Champigny,89340,89074
+stop_area:SNCF:87758177,"{'lat': '48.807303', 'lon': '2.509683'}",Champigny,admin:fr:94068,Saint-Maur-des-Fossés,94100;94210,94068
+stop_area:SNCF:87683615,"{'lat': '47.738587', 'lon': '3.603833'}",Champs - Saint-Bris,admin:fr:89077,Champs-sur-Yonne,89290,89077
+stop_area:SNCF:87484352,"{'lat': '47.410246', 'lon': '-0.868575'}",Champtocé-sur-Loire,admin:fr:49068,Champtocé-sur-Loire,49123,49068
+stop_area:SNCF:87783530,"{'lat': '44.473979', 'lon': '3.345412'}",Chanac,admin:fr:48056,Esclanèdes,48230,48056
+stop_area:SNCF:87116509,"{'lat': '48.959279', 'lon': '3.025375'}",Changis - Saint-Jean,admin:fr:77084,Changis-sur-Marne,77660,77084
+stop_area:SNCF:87677096,"{'lat': '46.403337', 'lon': '4.253013'}",Changy Tourny Monument,admin:fr:71086,Changy,71120,71086
+stop_area:SNCF:87215921,"{'lat': '47.924185', 'lon': '5.291698'}",Chanoy,admin:fr:52106,Chanoy,52260,52106
+stop_area:SNCF:87381475,"{'lat': '48.970893', 'lon': '2.027702'}",Chanteloup-les-Vignes,admin:fr:78138,Chanteloup-les-Vignes,78570,78138
+stop_area:SNCF:87481051,"{'lat': '47.1972', 'lon': '-1.594332'}",Chantenay,admin:fr:44109,Nantes,44000;44300,44109
+stop_area:SNCF:87696302,"{'lat': '46.728556', 'lon': '3.171472'}",Chantenay-Saint-Imbert,admin:fr:58057,Chantenay-Saint-Imbert,58240,58057
+stop_area:SNCF:87497222,"{'lat': '46.733098', 'lon': '3.183146'}",Chantenay-Saint-Imbert Bourg,admin:fr:58057,Chantenay-Saint-Imbert,58240,58057
+stop_area:SNCF:87276113,"{'lat': '49.18724', 'lon': '2.45979'}",Chantilly - Gouvieux,admin:fr:60141,Chantilly,60500,60141
+stop_area:SNCF:87486332,"{'lat': '46.690138', 'lon': '-1.054417'}",Chantonnay,admin:fr:85051,Chantonnay,85110,85051
+stop_area:SNCF:87734343,"{'lat': '44.83806', 'lon': '3.741864'}",Chapeauroux,admin:fr:48139,Saint-Bonnet-Laval,48600,48139
+stop_area:SNCF:87722710,"{'lat': '45.698484', 'lon': '4.76437'}",Chaponost,admin:fr:69043,Chaponost,69630,69043
+stop_area:SNCF:87276162,"{'lat': '49.069497', 'lon': '2.142557'}",Chaponval,admin:fr:95039,Auvers-sur-Oise,95430,95039
+stop_area:SNCF:87721530,"{'lat': '45.782173', 'lon': '4.735875'}",Charbonnières-les-Bains,admin:fr:69044,Charbonnières-les-Bains,69260,69044
+stop_area:SNCF:87194258,"{'lat': '49.487503', 'lon': '5.513034'}",Charency Carrefour,admin:fr:54118,Charency-Vezin,54260,54118
+stop_area:SNCF:88720090,"{'lat': '50.404393', 'lon': '4.438504'}",Charleroi Sud,admin:osm:relation:2113725,Charleroi,,
+stop_area:SNCF:87758003,"{'lat': '48.874201', 'lon': '2.29502'}",Charles-de-Gaulle Étoile,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87172007,"{'lat': '49.767895', 'lon': '4.725004'}",Charleville-Mézières,admin:fr:8105,Charleville-Mézières,08000,8105
+stop_area:SNCF:87144055,"{'lat': '48.378483', 'lon': '6.301537'}",Charmes,admin:fr:88090,Charmes,88130,88090
+stop_area:SNCF:87761510,"{'lat': '44.862645', 'lon': '4.834876'}",Charmes-sur-Rhône-centre,admin:fr:7055,Charmes-sur-Rhône,07800,7055
+stop_area:SNCF:87694885,"{'lat': '46.435019', 'lon': '4.273639'}",Charolles,admin:fr:71106,Charolles,71120,71106
+stop_area:SNCF:87304659,"{'lat': '46.992665', 'lon': '2.115726'}",Charost Café du Centre,admin:fr:18055,Chârost,18290,18055
+stop_area:SNCF:87643759,"{'lat': '46.992592', 'lon': '2.122786'}",Chârost Pont,admin:fr:18055,Chârost,18290,18055
+stop_area:SNCF:87381194,"{'lat': '49.16268', 'lon': '1.93671'}",Chars,admin:fr:95142,Chars,95750,95142
+stop_area:SNCF:87394007,"{'lat': '48.448202', 'lon': '1.481313'}",Chartres,admin:fr:28085,Chartres,28000,28085
+stop_area:SNCF:87137810,"{'lat': '48.447734', 'lon': '1.48099'}",Chartres Gare Routière,admin:fr:28085,Chartres,28000,28085
+stop_area:SNCF:87726364,"{'lat': '48.446547', 'lon': '1.476653'}",Chartres Pôle d'Échange Compa,admin:fr:28085,Chartres,28000,28085
+stop_area:SNCF:87682419,"{'lat': '48.487117', 'lon': '2.695038'}",Chartrettes,admin:fr:77096,Chartrettes,77590,77096
+stop_area:SNCF:87722561,"{'lat': '45.582406', 'lon': '4.794848'}",Chasse-sur-Rhône,admin:fr:38087,Chasse-sur-Rhône,38670,38087
+stop_area:SNCF:87575225,"{'lat': '46.65177', 'lon': '0.373028'}",Chasseneuil-du-Poitou,admin:fr:86062,Chasseneuil-du-Poitou,86360,86062
+stop_area:SNCF:87775148,"{'lat': '44.553985', 'lon': '3.839932'}",Chasseradès,admin:fr:48027,Mont Lozère et Goulet,,48027
+stop_area:SNCF:87751222,"{'lat': '44.093331', 'lon': '6.009441'}",Château-Arnoux Mairie,admin:fr:4049,Château-Arnoux-Saint-Auban,04160,4049
+stop_area:SNCF:87751230,"{'lat': '44.061463', 'lon': '5.997435'}",Château-Arnoux-Saint-Auban,admin:fr:4049,Château-Arnoux-Saint-Auban,04160,4049
+stop_area:SNCF:87396606,"{'lat': '47.683334', 'lon': '0.414959'}",Château-du-Loir,admin:fr:72071,Montval-sur-Loir,,72071
+stop_area:SNCF:87543066,"{'lat': '48.14169', 'lon': '1.912815'}",Château-Gaillard,admin:fr:28367,Santilly,28310,28367
+stop_area:SNCF:87595165,"{'lat': '45.244633', 'lon': '0.688125'}",Château-l'Évêque,admin:fr:24115,Château-l'Évêque,24460,24115
+stop_area:SNCF:87574665,"{'lat': '47.587796', 'lon': '0.901524'}",Château-Renault,admin:fr:37063,Château-Renault,37110,37063
+stop_area:SNCF:87422394,"{'lat': '47.590941', 'lon': '0.908118'}",Château-Renault La Tannerie,admin:fr:37063,Château-Renault,37110,37063
+stop_area:SNCF:87422402,"{'lat': '47.592893', 'lon': '0.914995'}",Château-Renault Place Jean Jaurès,admin:fr:37063,Château-Renault,37110,37063
+stop_area:SNCF:87644088,"{'lat': '47.592794', 'lon': '0.909204'}",Château-Renault ZI,admin:fr:37063,Château-Renault,37110,37063
+stop_area:SNCF:87116582,"{'lat': '49.03814', 'lon': '3.409302'}",Château-Thierry,admin:fr:2168,Château-Thierry,02400,2168
+stop_area:SNCF:87471524,"{'lat': '48.106361', 'lon': '-1.405159'}",Châteaubourg,admin:fr:35068,Châteaubourg,35220,35068
+stop_area:SNCF:87481648,"{'lat': '47.717521', 'lon': '-1.371515'}",Châteaubriant,admin:fr:44036,Châteaubriant,44110,44036
+stop_area:SNCF:87590372,"{'lat': '47.717161', 'lon': '-1.371328'}",Châteaubriant Tram Train,admin:fr:44036,Châteaubriant,44110,44036
+stop_area:SNCF:87545756,"{'lat': '48.073409', 'lon': '1.338114'}",Châteaudun,admin:fr:28088,Châteaudun,28200,28088
+stop_area:SNCF:87690248,"{'lat': '48.062522', 'lon': '1.336105'}",Châteaudun-LEP-Paulsen,admin:fr:28088,Châteaudun,28200,28088
+stop_area:SNCF:87474064,"{'lat': '48.201603', 'lon': '-4.094308'}",Châteaulin,admin:fr:29026,Châteaulin,29150,29026
+stop_area:SNCF:87592105,"{'lat': '45.759357', 'lon': '1.645235'}",Châteauneuf - Bujaleuf,admin:fr:87105,Neuvic-Entier,87130,87105
+stop_area:SNCF:87548438,"{'lat': '46.025606', 'lon': '2.896332'}",Châteauneuf-les-Bains Lamontgie,admin:fr:63100,Châteauneuf-les-Bains,63390,63100
+stop_area:SNCF:87491506,"{'lat': '45.59978', 'lon': '-0.050217'}",Châteauneuf-sur-Charente,admin:fr:16090,Châteauneuf-sur-Charente,16120,16090
+stop_area:SNCF:87576298,"{'lat': '46.856682', 'lon': '2.310173'}",Châteauneuf-sur-Cher,admin:fr:18058,Châteauneuf-sur-Cher,18190,18058
+stop_area:SNCF:87597005,"{'lat': '46.809812', 'lon': '1.699483'}",Châteauroux,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87689984,"{'lat': '46.81573', 'lon': '1.696765'}",Châteauroux - Lycée - Giraudoux,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87689950,"{'lat': '46.819753', 'lon': '1.684771'}",Châteauroux Croix Perrine,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87201541,"{'lat': '46.8095', 'lon': '1.698721'}",Chateauroux GR,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87689968,"{'lat': '46.78744', 'lon': '1.691144'}",Châteauroux Lycée Agricole,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87689976,"{'lat': '46.798046', 'lon': '1.711364'}",Châteauroux Lycée Blaise Pascal,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87689992,"{'lat': '46.801176', 'lon': '1.716914'}",Châteauroux Lycée Les Charmilles,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87690107,"{'lat': '46.809838', 'lon': '1.707049'}",Châteauroux Lycée P et M Curie,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87689513,"{'lat': '46.808795', 'lon': '1.690653'}",Châteauroux Médiathèque,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87690156,"{'lat': '46.810726', 'lon': '1.68675'}",Châteauroux-Préfecture,admin:fr:36044,Châteauroux,36000,36044
+stop_area:SNCF:87144071,"{'lat': '48.307114', 'lon': '6.388008'}",Châtel - Nomexy,admin:fr:88327,Nomexy,88440,88327
+stop_area:SNCF:87696856,"{'lat': '47.537769', 'lon': '3.635211'}",Châtel-Censoir,admin:fr:89091,Châtel-Censoir,89660,89091
+stop_area:SNCF:87566869,"{'lat': '45.918419', 'lon': '3.074753'}",Châtel-Guyon Office de Tourisme,admin:fr:63103,Châtel-Guyon,63140,63103
+stop_area:SNCF:87485110,"{'lat': '46.078282', 'lon': '-1.091118'}",Châtelaillon,admin:fr:17094,Châtelaillon-Plage,17340,17094
+stop_area:SNCF:87473140,"{'lat': '48.533219', 'lon': '-2.974678'}",Châtelaudren - Plouagat,admin:fr:22206,Châtelaudren-Plouagat,22170,22206
+stop_area:SNCF:87758607,"{'lat': '48.85983', 'lon': '2.34814'}",Châtelet-les-Halles,admin:fr:75056,Paris,75000;75116,75056
+stop_area:SNCF:87575142,"{'lat': '46.818594', 'lon': '0.549279'}",Châtellerault,admin:fr:86066,Châtellerault,86100,86066
+stop_area:SNCF:87715797,"{'lat': '48.302049', 'lon': '5.832397'}",Chatenois Foyer,admin:fr:88095,Châtenois,88170,88095
+stop_area:SNCF:87640441,"{'lat': '48.276197', 'lon': '7.401375'}",Châtenois Gare,admin:fr:67073,Châtenois,67730,67073
+stop_area:SNCF:87640458,"{'lat': '48.282656', 'lon': '7.383333'}",Châtenois Val-de-Villé Gare,admin:fr:67073,Châtenois,67730,67073
+stop_area:SNCF:87688952,"{'lat': '46.988208', 'lon': '1.171825'}",Chatillon - Hôtel - Saint-Antoine,admin:fr:36045,Châtillon-sur-Indre,36700,36045
+stop_area:SNCF:87721753,"{'lat': '45.875248', 'lon': '4.64517'}",Châtillon d'Azergues,admin:fr:69050,Châtillon,69380,69050
+stop_area:SNCF:87644096,"{'lat': '46.987279', 'lon': '1.17352'}",Châtillon Place du Mail,admin:fr:36045,Châtillon-sur-Indre,36700,36045
+stop_area:SNCF:87745711,"{'lat': '46.144399', 'lon': '5.798421'}",Châtillon-en-Michaille centre,admin:fr:1033,Valserhône,01200,1033
+stop_area:SNCF:87107482,"{'lat': '48.488907', 'lon': '5.127531'}",Chatonrupt,admin:fr:52118,Chatonrupt-Sommermont,52300,52118
+stop_area:SNCF:87758060,"{'lat': '48.885406', 'lon': '2.156432'}",Chatou-Croissy,admin:fr:78146,Chatou,78400,78146
+stop_area:SNCF:87118133,"{'lat': '48.499408', 'lon': '3.855276'}",Châtres Salle Polyvalente,admin:fr:10089,Châtres,10510,10089
+stop_area:SNCF:87576710,"{'lat': '47.264677', 'lon': '1.905763'}",Châtres-sur-Cher,admin:fr:41044,Châtres-sur-Cher,41320,41044
+stop_area:SNCF:87690230,"{'lat': '47.267072', 'lon': '1.888082'}",Chatres-Zelie-Fouquet,admin:fr:41044,Châtres-sur-Cher,41320,41044
+stop_area:SNCF:87694778,"{'lat': '46.207439', 'lon': '4.345393'}",Chauffailles,admin:fr:71120,Chauffailles,71170,71120
+stop_area:SNCF:87677138,"{'lat': '46.206915', 'lon': '4.336512'}",Chauffailles Gambetta,admin:fr:71120,Chauffailles,71170,71120
+stop_area:SNCF:87116350,"{'lat': '48.811357', 'lon': '3.180628'}",Chauffry,admin:fr:77106,Chauffry,77169,77106
+stop_area:SNCF:87712679,"{'lat': '47.087204', 'lon': '5.255191'}",Chaugey,admin:fr:21356,Losne,21170,21356
+stop_area:SNCF:87313478,"{'lat': '49.807643', 'lon': '2.80117'}",Chaulnes,admin:fr:80186,Chaulnes,80320,80186
+stop_area:SNCF:87170787,"{'lat': '42.939007', 'lon': '0.645149'}",Chaum Pont,admin:fr:31176,Esténos,31440,31176
+stop_area:SNCF:87142000,"{'lat': '48.10976', 'lon': '5.1346'}",Chaumont,admin:fr:52121,Chaumont,52000,52121
+stop_area:SNCF:87215061,"{'lat': '48.096684', 'lon': '5.145308'}",Chaumont Castelnau,admin:fr:52121,Chaumont,52000,52121
+stop_area:SNCF:87217042,"{'lat': '48.101959', 'lon': '5.144477'}",Chaumont Gendarmerie,admin:fr:52121,Chaumont,52000,52121
+stop_area:SNCF:87107417,"{'lat': '48.119881', 'lon': '5.139413'}",Chaumont Hôpital,admin:fr:52121,Chaumont,52000,52121
+stop_area:SNCF:87381228,"{'lat': '49.26139', 'lon': '1.87274'}",Chaumont-en-Vexin,admin:fr:60143,Chaumont-en-Vexin,60240,60143
+stop_area:SNCF:87309757,"{'lat': '47.607997', 'lon': '1.907139'}",Chaumont-sur-Tharonne,admin:fr:41046,Chaumont-sur-Tharonne,41600,41046
+stop_area:SNCF:87296616,"{'lat': '49.61119', 'lon': '3.22354'}",Chauny,admin:fr:2173,Chauny,02300,2173
+stop_area:SNCF:87202465,"{'lat': '46.569693', 'lon': '0.643993'}",Chauvigny Mairie,admin:fr:86070,Chauvigny,86300,86070
+stop_area:SNCF:87393173,"{'lat': '48.799689', 'lon': '2.184427'}",Chaville - Vélizy,admin:fr:78686,Viroflay,78220,78686
+stop_area:SNCF:87382333,"{'lat': '48.812152', 'lon': '2.18784'}",Chaville Rive Droite,admin:fr:92022,Chaville,92370,92022
+stop_area:SNCF:87393207,"{'lat': '48.804781', 'lon': '2.18843'}",Chaville Rive Gauche,admin:fr:92022,Chaville,92370,92022
+stop_area:SNCF:87591784,"{'lat': '48.804621', 'lon': '2.188198'}",Chaville Rive Gauche Noctilien,admin:fr:92022,Chaville,92370,92022
+stop_area:SNCF:87721415,"{'lat': '45.873252', 'lon': '4.725253'}",Chazay - Marcilly,admin:fr:69125,Marcilly-d'Azergues,69380,69125
+stop_area:SNCF:87746701,"{'lat': '45.92634', 'lon': '6.719784'}",Chedde,admin:fr:74208,Passy,74190,74208
+stop_area:SNCF:87694398,"{'lat': '46.892569', 'lon': '4.67579'}",Cheilly-lès-Maranges,admin:fr:71122,Cheilly-lès-Maranges,71150,71122
+stop_area:SNCF:87116111,"{'lat': '48.874316', 'lon': '2.584157'}",Chelles - Gournay,admin:fr:77108,Chelles,77500,77108
+stop_area:SNCF:87484246,"{'lat': '47.217748', 'lon': '-0.731989'}",Chemillé,admin:fr:49092,Chemillé-en-Anjou,49120;49750,49092
+stop_area:SNCF:87683532,"{'lat': '47.897276', 'lon': '3.55428'}",Chemilly - Appoigny,admin:fr:89096,Chemilly-sur-Yonne,89250,89096
+stop_area:SNCF:87546317,"{'lat': '48.748075', 'lon': '2.312622'}",Chemin d'Antony,admin:fr:92002,Antony,92160,92002
+stop_area:SNCF:85162750,"{'lat': '46.196607', 'lon': '6.197253'}",Chêne-Bourg,admin:osm:relation:1685466,Chêne-Bourg,,
+stop_area:SNCF:87141382,"{'lat': '48.519404', 'lon': '6.63247'}",Chenevières,admin:fr:54125,Chenevières,54122,54125
+stop_area:SNCF:87732693,"{'lat': '48.133949', 'lon': '6.600507'}",Chenimenil Filature,admin:fr:88101,Cheniménil,88460,88101
+stop_area:SNCF:87192138,"{'lat': '48.959422', 'lon': '6.499135'}",Chenois Rue Principale,admin:fr:57138,Chenois,57580,57138
+stop_area:SNCF:87574491,"{'lat': '47.330631', 'lon': '1.065446'}",Chenonceaux,admin:fr:37070,Chenonceaux,37150,37070
+stop_area:SNCF:87317495,"{'lat': '50.068222', 'lon': '1.635827'}",Chépy - Valines,admin:fr:80190,Chépy,80210,80190
+stop_area:SNCF:87444877,"{'lat': '49.633518', 'lon': '-1.621487'}",Cherbourg,admin:fr:50129,Cherbourg-en-Cotentin,,50129
+stop_area:SNCF:87317727,"{'lat': '47.12078', 'lon': '2.046692'}",Chéry,admin:fr:18064,Chéry,18120,18064
+stop_area:SNCF:87721761,"{'lat': '45.885524', 'lon': '4.622304'}",Chessy,admin:fr:69056,Chessy,69380,69056
+stop_area:SNCF:87471458,"{'lat': '48.208582', 'lon': '-1.63036'}",Chevaigné,admin:fr:35079,Chevaigné,35250,35079
+stop_area:SNCF:87175117,"{'lat': '48.52455', 'lon': '5.111784'}",Chevillon,admin:fr:52123,Chevillon,52170,52123
+stop_area:SNCF:87543041,"{'lat': '48.026672', 'lon': '1.879113'}",Chevilly,admin:fr:45093,Chevilly,45520,45093
+stop_area:SNCF:87276311,"{'lat': '49.337306', 'lon': '2.682803'}",Chevrières,admin:fr:60149,Chevrières,60710,60149
+stop_area:SNCF:87745240,"{'lat': '46.28222', 'lon': '6.038532'}",CHEVRY Mairie,admin:fr:1103,Chevry,01170,1103
+stop_area:SNCF:87116574,"{'lat': '48.991818', 'lon': '3.364583'}",Chézy-sur-Marne,admin:fr:2186,Chézy-sur-Marne,02570,2186
+stop_area:SNCF:87489088,"{'lat': '46.796394', 'lon': '-0.358222'}",Chiché,admin:fr:79088,Chiché,79350,79088
+stop_area:SNCF:87393637,"{'lat': '48.700441', 'lon': '2.308184'}",Chilly-Mazarin,admin:fr:91161,Chilly-Mazarin,91380,91161
+stop_area:SNCF:87741116,"{'lat': '45.803471', 'lon': '5.84691'}",Chindrieux,admin:fr:73085,Chindrieux,73310,73085
+stop_area:SNCF:87571687,"{'lat': '47.163073', 'lon': '0.251645'}",Chinon,admin:fr:37072,Chinon,37500,37072
+stop_area:SNCF:87690164,"{'lat': '47.171536', 'lon': '0.259182'}",Chinon-LEP-Cugnot,admin:fr:37072,Chinon,37500,37072
+stop_area:SNCF:87690172,"{'lat': '47.163679', 'lon': '0.234865'}",Chinon-Lycée-Rabelais,admin:fr:37072,Chinon,37500,37072
+stop_area:SNCF:87783290,"{'lat': '44.524661', 'lon': '3.263818'}",Chirac,admin:fr:48099,Bourgs sur Colagne,48100,48099
+stop_area:SNCF:87640649,"{'lat': '44.523054', 'lon': '3.267454'}",Chirac Ville,admin:fr:48099,Bourgs sur Colagne,48100,48099
+stop_area:SNCF:87574848,"{'lat': '47.334852', 'lon': '1.133761'}",Chissay-en-Touraine,admin:fr:41051,Chissay-en-Touraine,41400,41051
+stop_area:SNCF:87342220,"{'lat': '50.538245', 'lon': '2.564897'}",Chocques,admin:fr:62224,Chocques,62920,62224
+stop_area:SNCF:87545285,"{'lat': '48.763983', 'lon': '2.411065'}",Choisy-le-Roi,admin:fr:94022,Choisy-le-Roi,94600,94022
+stop_area:SNCF:87590612,"{'lat': '48.764854', 'lon': '2.412101'}",Choisy-Le-Roi Noctilien,admin:fr:94022,Choisy-le-Roi,94600,94022
+stop_area:SNCF:87484303,"{'lat': '47.065702', 'lon': '-0.869897'}",Cholet,admin:fr:49099,Cholet,49300,49099
+stop_area:SNCF:87462960,"{'lat': '47.060217', 'lon': '-0.880293'}",Cholet les Halles,admin:fr:49099,Cholet,49300,49099
+stop_area:SNCF:87763425,"{'lat': '44.545842', 'lon': '6.271889'}",Chorges,admin:fr:5040,Chorges,05230,5040
+stop_area:SNCF:87574301,"{'lat': '47.52024', 'lon': '1.247246'}",Chouzy,admin:fr:41055,Valloire-sur-Cisse,,41055
+stop_area:SNCF:87643908,"{'lat': '47.522159', 'lon': '1.246102'}",Chouzy Mairie,admin:fr:41055,Valloire-sur-Cisse,,41055
+stop_area:SNCF:87611228,"{'lat': '42.852895', 'lon': '0.603144'}",Cier-de-Luchon,admin:fr:31142,Cier-de-Luchon,31110,31142
+stop_area:SNCF:87170795,"{'lat': '42.914649', 'lon': '0.639541'}",Cierp-Gaud Place Jean Vivies,admin:fr:31144,Cierp-Gaud,31440,31144
