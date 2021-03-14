@@ -1,6 +1,6 @@
 import unittest
 import os
-from index_bis import get_data_from_json, get_header_columns, list_gares, get_all_areas
+from draft/index_bis import get_data_from_json, get_header_columns, list_gares, get_all_areas
 
 
 class TestMethodsApi(unittest.TestCase):
