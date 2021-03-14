@@ -3,7 +3,7 @@
         "start_page": 0,
         "items_on_page": 1000,
         "items_per_page": 1000,
-        "total_result": 4985
+        "total_result": 4995
     },
     "links": [
         {
@@ -87,7 +87,7 @@
     ],
     "context": {
         "timezone": "Europe/Paris",
-        "current_datetime": "20210312T230449"
+        "current_datetime": "20210314T222935"
     },
     "stop_areas": [
         {
@@ -15800,7 +15800,7 @@
             "codes": [
                 {
                     "type": "secondary_id",
-                    "value": "SNCF:87215335"
+                    "value": "SNCF:87477562"
                 },
                 {
                     "type": "source",
@@ -15822,8 +15822,8 @@
             "name": "Berthelming Mairie",
             "links": [],
             "coord": {
-                "lat": "48.81635",
-                "lon": "7.006759"
+                "lat": "48.816176",
+                "lon": "7.007105"
             },
             "label": "Berthelming Mairie (Berthelming)",
             "administrative_regions": [
@@ -15841,7 +15841,7 @@
                 }
             ],
             "timezone": "Europe/Paris",
-            "id": "stop_area:SNCF:87477562"
+            "id": "stop_area:SNCF:87215335"
         },
         {
             "codes": [
@@ -18537,6 +18537,41 @@
             ],
             "timezone": "Europe/Paris",
             "id": "stop_area:SNCF:87684407"
+        },
+        {
+            "codes": [
+                {
+                    "type": "source",
+                    "value": "87409763"
+                },
+                {
+                    "type": "uic",
+                    "value": "87409763"
+                }
+            ],
+            "name": "Bois d'Oingt",
+            "links": [],
+            "coord": {
+                "lat": "45.921683",
+                "lon": "4.585309"
+            },
+            "label": "Bois d'Oingt (Val d'Oingt)",
+            "administrative_regions": [
+                {
+                    "insee": "69024",
+                    "name": "Val d'Oingt",
+                    "level": 8,
+                    "coord": {
+                        "lat": "45.9211413",
+                        "lon": "4.5856762"
+                    },
+                    "label": "Val d'Oingt",
+                    "id": "admin:fr:69024",
+                    "zip_code": ""
+                }
+            ],
+            "timezone": "Europe/Paris",
+            "id": "stop_area:SNCF:87409763"
         },
         {
             "codes": [
@@ -35104,41 +35139,6 @@
             ],
             "timezone": "Europe/Paris",
             "id": "stop_area:SNCF:87611228"
-        },
-        {
-            "codes": [
-                {
-                    "type": "source",
-                    "value": "87170795"
-                },
-                {
-                    "type": "uic",
-                    "value": "87170795"
-                }
-            ],
-            "name": "Cierp-Gaud Place Jean Vivies",
-            "links": [],
-            "coord": {
-                "lat": "42.914649",
-                "lon": "0.639541"
-            },
-            "label": "Cierp-Gaud Place Jean Vivies (Cierp-Gaud)",
-            "administrative_regions": [
-                {
-                    "insee": "31144",
-                    "name": "Cierp-Gaud",
-                    "level": 8,
-                    "coord": {
-                        "lat": "42.9134556",
-                        "lon": "0.6387284"
-                    },
-                    "label": "Cierp-Gaud (31440)",
-                    "id": "admin:fr:31144",
-                    "zip_code": "31440"
-                }
-            ],
-            "timezone": "Europe/Paris",
-            "id": "stop_area:SNCF:87170795"
         }
     ]
 }

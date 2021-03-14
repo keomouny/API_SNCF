@@ -24,3 +24,35 @@
 14/03/2021 18:32:53 - INFO     - Instanciation of ApiSncf class
 14/03/2021 18:32:53 - DEBUG    - Starting new HTTPS connection (1): api.sncf.com:443
 14/03/2021 18:32:54 - DEBUG    - https://api.sncf.com:443 "GET /v1/coverage/sncf/stop_areas?count=1000 HTTP/1.1" 200 None
+14/03/2021 18:35:55 - INFO     - Instanciation of ApiSncf class
+14/03/2021 18:35:55 - INFO     - Instanciation of ApiSncf class
+14/03/2021 18:35:55 - INFO     - Instanciation of ApiSncf class
+14/03/2021 18:35:55 - INFO     - Instanciation of ApiSncf class
+14/03/2021 18:35:55 - DEBUG    - Starting new HTTPS connection (1): api.sncf.com:443
+14/03/2021 18:35:56 - DEBUG    - https://api.sncf.com:443 "GET /v1/coverage/sncf/stop_areas?count=1000 HTTP/1.1" 200 None
+14/03/2021 20:55:04 - INFO     - Instanciation of ApiSncf class
+14/03/2021 20:55:04 - INFO     - Instanciation of ApiSncf class
+14/03/2021 20:55:04 - INFO     - Instanciation of ApiSncf class
+14/03/2021 20:55:04 - INFO     - Instanciation of ApiSncf class
+14/03/2021 20:55:04 - DEBUG    - Starting new HTTPS connection (1): api.sncf.com:443
+14/03/2021 20:55:05 - DEBUG    - https://api.sncf.com:443 "GET /v1/coverage/sncf/stop_areas?count=1000 HTTP/1.1" 200 None
+14/03/2021 22:29:33 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:29:33 - DEBUG    - Starting new HTTPS connection (1): api.sncf.com:443
+14/03/2021 22:29:36 - DEBUG    - https://api.sncf.com:443 "GET /v1/coverage/sncf/stop_areas?count=1000 HTTP/1.1" 200 None
+14/03/2021 22:29:36 - INFO     - check header from columns for create csv file
+14/03/2021 22:30:31 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:30:31 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:30:31 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:30:31 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:30:31 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:30:31 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:30:31 - DEBUG    - Starting new HTTPS connection (1): api.sncf.com:443
+14/03/2021 22:43:23 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:44:09 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:44:58 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:51:55 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:52:16 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:52:19 - DEBUG    - Starting new HTTPS connection (1): api.sncf.com:443
+14/03/2021 22:55:27 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:55:48 - INFO     - [ApiSncf] - Instanciation of ApiSncf class
+14/03/2021 22:55:55 - DEBUG    - Starting new HTTPS connection (1): api.sncf.com:443

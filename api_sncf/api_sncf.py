@@ -4,14 +4,15 @@ import csv
 import os
 from pprint import pprint
 from dotenv import load_dotenv
-from setup_logger import logger
+from utils.setup_logger import logger
 
 
-class ApiSncf:
+class SncfApi:
     # constructor
     def __init__(self):
-        logger.info('Instanciation of ApiSncf class')
-        load_dotenv()
+        logger.info('[ApiSncf] - Instanciation of ApiSncf class')
+
+        load_dotenv(dotenv_path='utils/.env')
         self.url_api = 'https://api.sncf.com/v1/coverage/sncf/stop_areas?count=1000'
         self.token_auth = os.environ.get('TOKEN_AUTH')
         self.filename_export = 'stop_areas'

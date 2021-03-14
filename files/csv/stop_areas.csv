@@ -447,7 +447,7 @@ stop_area:SNCF:87671529,"{'lat': '43.169917', 'lon': '0.102731'}",Bernac-Debat,a
 stop_area:SNCF:87620120,"{'lat': '43.159141', 'lon': '0.104618'}",Bernac-Dessus - Arcizac,admin:fr:65019,Arcizac-Adour,65360,65019
 stop_area:SNCF:87444299,"{'lat': '49.087116', 'lon': '0.595688'}",Bernay,admin:fr:27056,Bernay,27300,27056
 stop_area:SNCF:87592352,"{'lat': '46.083814', 'lon': '1.432128'}",Bersac,admin:fr:87013,Bersac-sur-Rivalier,87370,87013
-stop_area:SNCF:87477562,"{'lat': '48.81635', 'lon': '7.006759'}",Berthelming Mairie,admin:fr:57066,Berthelming,57930,57066
+stop_area:SNCF:87215335,"{'lat': '48.816176', 'lon': '7.007105'}",Berthelming Mairie,admin:fr:57066,Berthelming,57930,57066
 stop_area:SNCF:87703561,"{'lat': '48.818607', 'lon': '7.00887'}",Berthelming Principale,admin:fr:57066,Berthelming,57930,57066
 stop_area:SNCF:87138883,"{'lat': '44.392848', 'lon': '2.78188'}",Bertholène Café Girou,admin:fr:12026,Bertholène,12310,12026
 stop_area:SNCF:87170555,"{'lat': '42.999107', 'lon': '0.618014'}",Bertren,admin:fr:65087,Bertren,65370,65087
@@ -525,6 +525,7 @@ stop_area:SNCF:87726471,"{'lat': '45.741386', 'lon': '4.005061'}",Boën,admin:fr
 stop_area:SNCF:87172049,"{'lat': '49.858312', 'lon': '4.763232'}",Bogny-sur-Meuse,admin:fr:8081,Bogny-sur-Meuse,08120,8081
 stop_area:SNCF:87296269,"{'lat': '49.988491', 'lon': '3.443179'}",Bohain,admin:fr:2095,Bohain-en-Vermandois,02110,2095
 stop_area:SNCF:87684407,"{'lat': '48.342347', 'lon': '2.378905'}",Boigneville,admin:fr:91069,Boigneville,91720,91069
+stop_area:SNCF:87409763,"{'lat': '45.921683', 'lon': '4.585309'}",Bois d'Oingt,admin:fr:69024,Val d'Oingt,,69024
 stop_area:SNCF:87381079,"{'lat': '48.913535', 'lon': '2.272504'}",Bois-Colombes,admin:fr:92009,Bois-Colombes,92270,92009
 stop_area:SNCF:87721787,"{'lat': '45.906545', 'lon': '4.57513'}",Bois-d'Oingt - Légny,admin:fr:69111,Légny,69620,69111
 stop_area:SNCF:87682203,"{'lat': '48.475567', 'lon': '2.691606'}",Bois-le-Roi,admin:fr:77037,Bois-le-Roi,77590,77037
@@ -998,4 +999,3 @@ stop_area:SNCF:87763425,"{'lat': '44.545842', 'lon': '6.271889'}",Chorges,admin:
 stop_area:SNCF:87574301,"{'lat': '47.52024', 'lon': '1.247246'}",Chouzy,admin:fr:41055,Valloire-sur-Cisse,,41055
 stop_area:SNCF:87643908,"{'lat': '47.522159', 'lon': '1.246102'}",Chouzy Mairie,admin:fr:41055,Valloire-sur-Cisse,,41055
 stop_area:SNCF:87611228,"{'lat': '42.852895', 'lon': '0.603144'}",Cier-de-Luchon,admin:fr:31142,Cier-de-Luchon,31110,31142
-stop_area:SNCF:87170795,"{'lat': '42.914649', 'lon': '0.639541'}",Cierp-Gaud Place Jean Vivies,admin:fr:31144,Cierp-Gaud,31440,31144
