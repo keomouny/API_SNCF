@@ -22,5 +22,5 @@ class TestMethodsApi(unittest.TestCase):
         self.assertEqual(len(get_all_areas(list_gares)), 25)
 
 
-if __name__ == '__main__':
-    unittest.main(verbosity=2)
+# if __name__ == '__main__':
+#     unittest.main(verbosity=2)

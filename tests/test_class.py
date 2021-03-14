@@ -1,6 +1,6 @@
 import unittest
 import os
-from manipulation_api_csv.api_sncf import ApiSncf
+from api_sncf import ApiSncf
 import requests
 
 
