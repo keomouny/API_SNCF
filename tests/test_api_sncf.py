@@ -16,21 +16,17 @@ class ApiSncfTestCase(unittest.TestCase):
         self.assertTrue(os.path.exists('stop_areas.csv'))
 
     def test_get_data_from_json(self):
-        # api_sncf = ApiSncf()
         self.assertEqual(self.ApiSncf.request_api_sncf, None)
 
     def test_get_header_columns(self):
-        # api_sncf = ApiSncf()
         self.assertIs(type(self.ApiSncf.list_header_columns), list)
 
     def test_get_all_areas(self):
-        # api_sncf = ApiSncf()
         self.assertIs(type(self.ApiSncf.list_gares), list)
         self.assertEqual(
             len(self.ApiSncf.get_all_areas(self.ApiSncf.list_gares)), 25)
 
     def test_status_code(self):
-        # api_sncf = ApiSncf()
         res = requests.get(self.ApiSncf.url_api,
                            auth=(self.ApiSncf.token_auth, ''))
         self.assertEqual(res.status_code, 200)
